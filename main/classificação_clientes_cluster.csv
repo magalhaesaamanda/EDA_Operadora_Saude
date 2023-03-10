@@ -1,0 +1,226 @@
+,cod_cliente,genero,idade,peso,colesterol,id_estado,estado,sigla_estado,clusters,nome_cluster
+0,1,Masculino,17,102.0,111,23,Roraima,RR,1,Baixo Risco
+1,2,Masculino,28,115.0,135,7,Distrito Federal,DF,1,Baixo Risco
+2,3,Masculino,62,115.0,136,4,Amazonas,AM,1,Baixo Risco
+3,4,Feminino,55,140.0,167,24,Santa Catarina,SC,2,Moderado Risco
+4,5,Masculino,44,130.0,158,26,Sergipe,SE,2,Moderado Risco
+5,6,Masculino,17,198.0,227,8,EspÃ­rito Santo,ES,0,Alto Risco
+6,7,Masculino,30,114.0,131,26,Sergipe,SE,1,Baixo Risco
+7,8,Feminino,30,145.0,176,25,SÃ£o Paulo,SP,2,Moderado Risco
+8,9,Feminino,34,191.0,223,16,ParanÃ¡,PR,0,Alto Risco
+9,10,Masculino,55,186.0,221,6,CearÃ¡,CE,0,Alto Risco
+10,11,Feminino,50,104.0,116,3,AmapÃ¡,AP,1,Baixo Risco
+11,12,Masculino,62,188.0,222,6,CearÃ¡,CE,0,Alto Risco
+12,13,Feminino,52,96.0,102,17,Pernambuco,PE,1,Baixo Risco
+13,14,Feminino,34,156.0,192,7,Distrito Federal,DF,2,Moderado Risco
+14,15,Feminino,69,125.0,152,25,SÃ£o Paulo,SP,2,Moderado Risco
+15,16,Feminino,65,178.0,213,14,ParÃ¡,PA,0,Alto Risco
+16,17,Feminino,61,109.0,125,3,AmapÃ¡,AP,1,Baixo Risco
+17,18,Masculino,65,168.0,204,27,Tocantins,TO,0,Alto Risco
+18,19,Feminino,48,152.0,189,17,Pernambuco,PE,2,Moderado Risco
+19,20,Feminino,60,133.0,163,5,Bahia,BA,2,Moderado Risco
+20,21,Feminino,70,153.0,189,5,Bahia,BA,2,Moderado Risco
+21,22,Feminino,28,107.0,122,15,ParaÃ­ba,PB,1,Baixo Risco
+22,23,Masculino,63,199.0,228,2,Alagoas,AL,0,Alto Risco
+23,24,Feminino,34,140.0,168,11,Mato Grosso,MT,2,Moderado Risco
+24,25,Masculino,53,95.0,102,3,AmapÃ¡,AP,1,Baixo Risco
+25,26,Feminino,42,183.0,218,10,MaranhÃ£o,MA,0,Alto Risco
+26,27,Feminino,35,108.0,123,21,Rio Grande do Sul,RS,1,Baixo Risco
+27,28,Feminino,55,190.0,222,20,Rio Grande do Norte,RN,0,Alto Risco
+28,29,Masculino,55,174.0,208,14,ParÃ¡,PA,0,Alto Risco
+29,30,Masculino,62,149.0,183,13,Minas Gerais,MG,2,Moderado Risco
+30,31,Masculino,24,169.0,204,8,EspÃ­rito Santo,ES,0,Alto Risco
+31,32,Masculino,29,138.0,167,3,AmapÃ¡,AP,2,Moderado Risco
+32,33,Masculino,56,142.32,188,22,RondÃ´nia,RO,2,Moderado Risco
+33,34,Masculino,54,109.0,126,18,PiauÃ­,PI,1,Baixo Risco
+34,35,Feminino,60,178.0,213,6,CearÃ¡,CE,0,Alto Risco
+35,36,Masculino,67,106.0,122,20,Rio Grande do Norte,RN,1,Baixo Risco
+36,37,Masculino,16,195.0,225,17,Pernambuco,PE,0,Alto Risco
+37,38,Masculino,42,96.0,105,1,Acre,AC,1,Baixo Risco
+38,39,Feminino,33,129.0,155,10,MaranhÃ£o,MA,2,Moderado Risco
+39,40,Masculino,60,166.0,203,17,Pernambuco,PE,0,Alto Risco
+40,41,Masculino,60,197.0,225,14,ParÃ¡,PA,0,Alto Risco
+41,42,Masculino,54,142.32,177,20,Rio Grande do Norte,RN,2,Moderado Risco
+42,43,Masculino,55,117.0,139,4,Amazonas,AM,1,Baixo Risco
+43,44,Feminino,36,193.0,224,27,Tocantins,TO,0,Alto Risco
+44,45,Masculino,22,170.0,207,18,PiauÃ­,PI,0,Alto Risco
+45,46,Feminino,65,130.0,158,26,Sergipe,SE,2,Moderado Risco
+46,47,Masculino,68,183.0,218,7,Distrito Federal,DF,0,Alto Risco
+47,48,Feminino,38,134.0,164,9,GoiÃ¡s,GO,2,Moderado Risco
+48,49,Feminino,38,128.0,154,7,Distrito Federal,DF,2,Moderado Risco
+49,50,Feminino,70,105.0,118,4,Amazonas,AM,1,Baixo Risco
+50,51,Feminino,23,115.0,138,26,Sergipe,SE,1,Baixo Risco
+51,52,Masculino,34,166.0,199,22,RondÃ´nia,RO,0,Alto Risco
+52,53,Masculino,30,183.0,219,15,ParaÃ­ba,PB,0,Alto Risco
+53,54,Masculino,48,149.0,183,23,Roraima,RR,2,Moderado Risco
+54,55,Feminino,36,110.0,128,9,GoiÃ¡s,GO,1,Baixo Risco
+55,56,Feminino,25,164.0,197,4,Amazonas,AM,0,Alto Risco
+56,57,Feminino,65,157.0,196,7,Distrito Federal,DF,2,Moderado Risco
+57,58,Feminino,39,170.0,208,7,Distrito Federal,DF,0,Alto Risco
+58,59,Masculino,58,124.0,152,8,EspÃ­rito Santo,ES,2,Moderado Risco
+59,60,Masculino,38,145.0,175,22,RondÃ´nia,RO,2,Moderado Risco
+60,61,Feminino,70,113.0,129,23,Roraima,RR,1,Baixo Risco
+61,62,Feminino,47,150.0,185,8,EspÃ­rito Santo,ES,2,Moderado Risco
+62,63,Masculino,57,100.0,107,16,ParanÃ¡,PR,1,Baixo Risco
+63,64,Masculino,58,178.0,211,12,Mato Grosso do Sul,MS,0,Alto Risco
+64,65,Feminino,30,139.0,167,6,CearÃ¡,CE,2,Moderado Risco
+65,66,Masculino,25,150.0,185,21,Rio Grande do Sul,RS,2,Moderado Risco
+66,67,Masculino,30,101.0,110,24,Santa Catarina,SC,1,Baixo Risco
+67,68,Masculino,48,157.0,194,19,Rio de Janeiro,RJ,2,Moderado Risco
+68,69,Feminino,35,187.0,221,21,Rio Grande do Sul,RS,0,Alto Risco
+69,70,Feminino,49,137.0,166,11,Mato Grosso,MT,2,Moderado Risco
+70,71,Masculino,28,121.0,143,26,Sergipe,SE,1,Baixo Risco
+71,72,Feminino,42,132.0,163,9,GoiÃ¡s,GO,2,Moderado Risco
+72,73,Masculino,50,130.0,158,2,Alagoas,AL,2,Moderado Risco
+73,74,Feminino,24,156.0,191,19,Rio de Janeiro,RJ,2,Moderado Risco
+74,75,Feminino,31,180.0,216,10,MaranhÃ£o,MA,0,Alto Risco
+75,76,Masculino,43,100.0,106,15,ParaÃ­ba,PB,1,Baixo Risco
+76,77,Feminino,39,122.0,146,17,Pernambuco,PE,1,Baixo Risco
+77,78,Feminino,34,185.0,220,13,Minas Gerais,MG,0,Alto Risco
+78,79,Feminino,48,113.0,131,11,Mato Grosso,MT,1,Baixo Risco
+79,80,Feminino,61,123.0,147,27,Tocantins,TO,1,Baixo Risco
+80,81,Feminino,18,119.0,141,4,Amazonas,AM,1,Baixo Risco
+81,82,Masculino,58,113.0,130,7,Distrito Federal,DF,1,Baixo Risco
+82,83,Masculino,46,168.0,204,14,ParÃ¡,PA,0,Alto Risco
+83,84,Masculino,18,126.0,152,26,Sergipe,SE,2,Moderado Risco
+84,85,Masculino,52,102.0,111,22,RondÃ´nia,RO,1,Baixo Risco
+85,86,Masculino,66,116.0,139,22,RondÃ´nia,RO,1,Baixo Risco
+86,87,Masculino,43,144.0,172,5,Bahia,BA,2,Moderado Risco
+87,88,Feminino,25,142.32,168,12,Mato Grosso do Sul,MS,2,Moderado Risco
+88,89,Feminino,35,124.0,148,27,Tocantins,TO,1,Baixo Risco
+89,90,Feminino,29,108.0,123,19,Rio de Janeiro,RJ,1,Baixo Risco
+90,91,Feminino,47,154.0,189,22,RondÃ´nia,RO,2,Moderado Risco
+91,92,Feminino,30,185.0,220,5,Bahia,BA,0,Alto Risco
+92,93,Masculino,19,106.0,120,22,RondÃ´nia,RO,1,Baixo Risco
+93,94,Masculino,67,97.0,106,13,Minas Gerais,MG,1,Baixo Risco
+94,95,Feminino,22,96.0,105,8,EspÃ­rito Santo,ES,1,Baixo Risco
+95,96,Masculino,56,129.0,157,14,ParÃ¡,PA,2,Moderado Risco
+96,97,Masculino,28,124.0,149,10,MaranhÃ£o,MA,1,Baixo Risco
+97,98,Feminino,25,149.0,185,1,Acre,AC,2,Moderado Risco
+98,99,Feminino,47,97.0,106,12,Mato Grosso do Sul,MS,1,Baixo Risco
+99,100,Masculino,20,102.0,115,6,CearÃ¡,CE,1,Baixo Risco
+100,101,Masculino,49,146.0,177,21,Rio Grande do Sul,RS,2,Moderado Risco
+101,102,Feminino,33,199.0,230,24,Santa Catarina,SC,0,Alto Risco
+102,103,Feminino,29,100.0,108,18,PiauÃ­,PI,1,Baixo Risco
+103,104,Feminino,38,118.0,140,1,Acre,AC,1,Baixo Risco
+104,105,Masculino,21,179.0,214,18,PiauÃ­,PI,0,Alto Risco
+105,106,Masculino,56,179.0,216,21,Rio Grande do Sul,RS,0,Alto Risco
+106,107,Feminino,50,113.0,130,4,Amazonas,AM,1,Baixo Risco
+107,108,Feminino,65,142.0,169,17,Pernambuco,PE,2,Moderado Risco
+108,109,Masculino,48,101.0,110,4,Amazonas,AM,1,Baixo Risco
+109,110,Masculino,63,174.0,209,2,Alagoas,AL,0,Alto Risco
+110,111,Masculino,23,131.0,162,22,RondÃ´nia,RO,2,Moderado Risco
+111,112,Masculino,66,179.0,214,11,Mato Grosso,MT,0,Alto Risco
+112,113,Masculino,39,122.0,145,1,Acre,AC,1,Baixo Risco
+113,114,Masculino,44,105.0,116,4,Amazonas,AM,1,Baixo Risco
+114,115,Feminino,21,176.0,209,6,CearÃ¡,CE,0,Alto Risco
+115,116,Masculino,22,103.0,116,10,MaranhÃ£o,MA,1,Baixo Risco
+116,117,Masculino,44,120.0,139,5,Bahia,BA,1,Baixo Risco
+117,118,Masculino,48,118.0,143,18,PiauÃ­,PI,1,Baixo Risco
+118,119,Feminino,32,143.0,168,9,GoiÃ¡s,GO,2,Moderado Risco
+119,120,Masculino,32,134.0,158,19,Rio de Janeiro,RJ,2,Moderado Risco
+120,121,Masculino,60,203.0,232,4,Amazonas,AM,0,Alto Risco
+121,122,Masculino,36,116.0,136,10,MaranhÃ£o,MA,1,Baixo Risco
+122,123,Feminino,47,150.0,180,16,ParanÃ¡,PR,2,Moderado Risco
+123,124,Feminino,28,192.0,228,7,Distrito Federal,DF,0,Alto Risco
+124,125,Masculino,50,187.0,222,10,MaranhÃ£o,MA,0,Alto Risco
+125,126,Feminino,30,107.0,117,12,Mato Grosso do Sul,MS,1,Baixo Risco
+126,127,Masculino,46,192.0,224,2,Alagoas,AL,0,Alto Risco
+127,128,Feminino,21,97.0,104,20,Rio Grande do Norte,RN,1,Baixo Risco
+128,129,Feminino,35,157.0,195,18,PiauÃ­,PI,2,Moderado Risco
+129,130,Feminino,37,128.0,156,3,AmapÃ¡,AP,2,Moderado Risco
+130,131,Feminino,21,183.0,213,7,Distrito Federal,DF,0,Alto Risco
+131,132,Feminino,26,112.0,133,9,GoiÃ¡s,GO,1,Baixo Risco
+132,133,Masculino,69,173.0,208,7,Distrito Federal,DF,0,Alto Risco
+133,134,Feminino,52,156.0,195,27,Tocantins,TO,2,Moderado Risco
+134,135,Feminino,53,137.0,163,16,ParanÃ¡,PR,2,Moderado Risco
+135,136,Feminino,59,156.0,195,25,SÃ£o Paulo,SP,2,Moderado Risco
+136,137,Feminino,24,112.0,124,19,Rio de Janeiro,RJ,1,Baixo Risco
+137,138,Masculino,39,203.0,231,6,CearÃ¡,CE,0,Alto Risco
+138,139,Feminino,35,141.0,172,6,CearÃ¡,CE,2,Moderado Risco
+139,140,Masculino,57,97.0,104,12,Mato Grosso do Sul,MS,1,Baixo Risco
+140,141,Feminino,48,186.0,221,14,ParÃ¡,PA,0,Alto Risco
+141,142,Feminino,62,113.0,128,22,RondÃ´nia,RO,1,Baixo Risco
+142,143,Feminino,48,195.0,222,8,EspÃ­rito Santo,ES,0,Alto Risco
+143,144,Masculino,53,175.0,214,2,Alagoas,AL,0,Alto Risco
+144,145,Masculino,63,154.0,184,17,Pernambuco,PE,2,Moderado Risco
+145,146,Masculino,49,173.0,204,24,Santa Catarina,SC,0,Alto Risco
+146,147,Masculino,40,141.0,171,23,Roraima,RR,2,Moderado Risco
+147,148,Masculino,28,152.0,195,13,Minas Gerais,MG,2,Moderado Risco
+148,149,Masculino,45,114.0,132,20,Rio Grande do Norte,RN,1,Baixo Risco
+149,150,Feminino,39,181.0,214,25,SÃ£o Paulo,SP,0,Alto Risco
+150,151,Masculino,52,111.0,123,2,Alagoas,AL,1,Baixo Risco
+151,152,Masculino,55,200.0,233,27,Tocantins,TO,0,Alto Risco
+152,153,Masculino,29,100.0,107,26,Sergipe,SE,1,Baixo Risco
+153,154,Feminino,26,134.0,162,23,Roraima,RR,2,Moderado Risco
+154,155,Masculino,16,167.0,204,11,Mato Grosso,MT,0,Alto Risco
+155,156,Masculino,41,198.0,227,17,Pernambuco,PE,0,Alto Risco
+156,157,Masculino,69,151.0,185,24,Santa Catarina,SC,2,Moderado Risco
+157,158,Masculino,55,121.0,142,3,AmapÃ¡,AP,1,Baixo Risco
+158,159,Feminino,58,196.0,225,19,Rio de Janeiro,RJ,0,Alto Risco
+159,160,Masculino,23,171.0,212,11,Mato Grosso,MT,0,Alto Risco
+160,161,Feminino,16,135.0,161,18,PiauÃ­,PI,2,Moderado Risco
+161,162,Masculino,24,186.0,220,4,Amazonas,AM,0,Alto Risco
+162,163,Feminino,45,138.0,168,24,Santa Catarina,SC,2,Moderado Risco
+163,164,Feminino,51,133.0,155,23,Roraima,RR,2,Moderado Risco
+164,165,Feminino,70,107.0,125,18,PiauÃ­,PI,1,Baixo Risco
+165,166,Feminino,29,120.0,144,15,ParaÃ­ba,PB,1,Baixo Risco
+166,167,Masculino,66,168.0,201,13,Minas Gerais,MG,0,Alto Risco
+167,168,Masculino,34,184.0,222,11,Mato Grosso,MT,0,Alto Risco
+168,169,Masculino,53,154.0,189,17,Pernambuco,PE,2,Moderado Risco
+169,170,Feminino,22,115.0,132,8,EspÃ­rito Santo,ES,1,Baixo Risco
+170,171,Feminino,55,168.0,204,13,Minas Gerais,MG,0,Alto Risco
+171,172,Feminino,61,161.0,201,11,Mato Grosso,MT,0,Alto Risco
+172,173,Feminino,57,171.0,211,19,Rio de Janeiro,RJ,0,Alto Risco
+173,174,Masculino,28,129.0,156,12,Mato Grosso do Sul,MS,2,Moderado Risco
+174,175,Masculino,55,150.0,179,21,Rio Grande do Sul,RS,2,Moderado Risco
+175,176,Feminino,20,118.0,129,22,RondÃ´nia,RO,1,Baixo Risco
+176,177,Feminino,24,154.0,185,22,RondÃ´nia,RO,2,Moderado Risco
+177,178,Masculino,40,103.0,107,3,AmapÃ¡,AP,1,Baixo Risco
+178,179,Masculino,43,180.0,213,3,AmapÃ¡,AP,0,Alto Risco
+179,180,Feminino,33,141.0,172,6,CearÃ¡,CE,2,Moderado Risco
+180,181,Masculino,36,152.0,193,24,Santa Catarina,SC,2,Moderado Risco
+181,182,Masculino,27,104.0,114,18,PiauÃ­,PI,1,Baixo Risco
+182,183,Masculino,53,159.0,202,26,Sergipe,SE,0,Alto Risco
+183,184,Feminino,18,191.0,222,8,EspÃ­rito Santo,ES,0,Alto Risco
+184,185,Feminino,33,142.0,168,21,Rio Grande do Sul,RS,2,Moderado Risco
+185,186,Masculino,60,123.0,146,14,ParÃ¡,PA,1,Baixo Risco
+186,187,Feminino,20,135.0,170,10,MaranhÃ£o,MA,2,Moderado Risco
+187,188,Masculino,31,132.0,165,19,Rio de Janeiro,RJ,2,Moderado Risco
+188,189,Feminino,42,158.0,196,15,ParaÃ­ba,PB,2,Moderado Risco
+189,190,Feminino,66,181.0,224,20,Rio Grande do Norte,RN,0,Alto Risco
+190,191,Masculino,29,105.0,108,5,Bahia,BA,1,Baixo Risco
+191,192,Feminino,53,126.0,149,13,Minas Gerais,MG,1,Baixo Risco
+192,193,Feminino,62,186.0,224,5,Bahia,BA,0,Alto Risco
+193,194,Feminino,35,116.0,136,21,Rio Grande do Sul,RS,1,Baixo Risco
+194,195,Feminino,24,124.0,152,3,AmapÃ¡,AP,2,Moderado Risco
+195,196,Feminino,48,122.0,143,15,ParaÃ­ba,PB,1,Baixo Risco
+196,197,Masculino,32,115.0,135,23,Roraima,RR,1,Baixo Risco
+197,198,Masculino,28,173.0,211,11,Mato Grosso,MT,0,Alto Risco
+198,199,Masculino,70,128.0,156,10,MaranhÃ£o,MA,2,Moderado Risco
+199,200,Masculino,62,103.0,115,16,ParanÃ¡,PR,1,Baixo Risco
+200,201,Masculino,67,120.0,143,4,Amazonas,AM,1,Baixo Risco
+201,202,Masculino,31,146.0,179,23,Roraima,RR,2,Moderado Risco
+202,203,Feminino,16,145.0,173,1,Acre,AC,2,Moderado Risco
+203,204,Feminino,21,125.0,148,23,Roraima,RR,1,Baixo Risco
+204,205,Feminino,50,109.0,127,7,Distrito Federal,DF,1,Baixo Risco
+205,206,Feminino,53,156.0,194,3,AmapÃ¡,AP,2,Moderado Risco
+206,207,Feminino,54,187.0,225,20,Rio Grande do Norte,RN,0,Alto Risco
+207,208,Masculino,35,110.0,127,9,GoiÃ¡s,GO,1,Baixo Risco
+208,209,Masculino,60,100.0,106,14,ParÃ¡,PA,1,Baixo Risco
+209,210,Feminino,41,97.0,112,6,CearÃ¡,CE,1,Baixo Risco
+210,211,Masculino,17,133.0,164,8,EspÃ­rito Santo,ES,2,Moderado Risco
+211,212,Masculino,50,128.0,151,14,ParÃ¡,PA,2,Moderado Risco
+212,213,Feminino,36,154.0,191,15,ParaÃ­ba,PB,2,Moderado Risco
+213,214,Feminino,67,100.0,110,6,CearÃ¡,CE,1,Baixo Risco
+214,215,Masculino,67,104.0,116,9,GoiÃ¡s,GO,1,Baixo Risco
+215,216,Masculino,52,149.0,180,13,Minas Gerais,MG,2,Moderado Risco
+216,217,Feminino,62,203.0,235,12,Mato Grosso do Sul,MS,0,Alto Risco
+217,218,Feminino,43,104.0,108,21,Rio Grande do Sul,RS,1,Baixo Risco
+218,219,Feminino,50,119.0,141,19,Rio de Janeiro,RJ,1,Baixo Risco
+219,220,Masculino,32,181.0,219,25,SÃ£o Paulo,SP,0,Alto Risco
+220,221,Masculino,33,180.0,219,20,Rio Grande do Norte,RN,0,Alto Risco
+221,222,Feminino,38,116.0,138,15,ParaÃ­ba,PB,1,Baixo Risco
+222,223,Feminino,24,144.0,169,18,PiauÃ­,PI,2,Moderado Risco
+223,224,Masculino,31,102.0,116,6,CearÃ¡,CE,1,Baixo Risco
+224,225,Masculino,57,176.0,212,7,Distrito Federal,DF,0,Alto Risco
