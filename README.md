@@ -11,22 +11,26 @@ Com isso pretende-se responder as seguintes perguntas, nesta análise explorató
 - Quais as causas do colesterol alto no cliente? O peso interfere?
 - A idade influencia na probabilidade de um cliente ter colesterol alto?
 - Quais clientes deveriam realizar um pré tratamento a fim de cuidar antes mesmo de estar com colesterol alto?
+- Há alguma relação entre o IMC e o nível de colesterol?
 
 ## Organização do projeto 
 
-            # EDA - Operadora de Saúde
-            ├── Readme.md
-            ├── data
-            │   ├── clientes_operadora_saude.xlsx
-            │   ├── estados_brasileiros.csv
-            │   └── idade_clientes.csv
-            │  
-            ├── main
-            │   └── classificação_clientes_cluster.csv
-            │             
-            ├── tratativa
-            │   ├── Tratativa_op_saude.ipynb
-            │   ├── 
-            │   └── merged_operadora_saude.csv
-            │
-            └── Eda_Operadora_de_saude.ipynb
+            EDA - Operadora de Saúde
+            ┣ data
+            ┃ ┣ clientes_operadora_saude.xlsx
+            ┃ ┣ estados_brasileiros.csv
+            ┃ ┗ idade_clientes.csv
+            ┃
+            ┣ imag
+            ┃ ┣ Kmeans.png
+            ┃ ┗ WCSS.png
+            ┃
+            ┣ main
+            ┃ ┗ classificação_clientes_cluster.csv
+            ┃
+            ┣ tratativa
+            ┃ ┣ merged_operadora_saude.csv
+            ┃ ┗ Tratativa_op_saude.ipynb
+            ┃
+            ┣ Eda_Operadora_de_saude.ipynb
+            ┗ README.md
