@@ -6,7 +6,10 @@ Uma operadora de saúde tem recebido muitos clientes com problemas de sobrepeso 
 
 ## Objetivo
 
-Com isso pretende-se responder as seguintes perguntas, nesta análise exploratória de dados:
+
+Com isso pretende-se neste projeto realizar uma análise exploratória dos dados da operadora de saúde, a fim de enetnder as causas do colesterol alto e realizar uma predição de situação do paciente à eventuais problemas de saúde.
+
+Além de responder as seguintes perguntas:
 
 - Quais as causas do colesterol alto no cliente? O peso interfere?
 - A idade influencia na probabilidade de um cliente ter colesterol alto?
