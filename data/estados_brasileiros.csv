@@ -8,7 +8,7 @@ cod_estado;estado;sigla_estado;pais
 7;Distrito Federal;DF;Brasil
 8;Espirito Santo;ES;Brasil
 9;Goias;GO;Brasil
-10;Maranhao;MA;Brasil
+10;Maranhao;MA;
 11;Mato Grosso;MT;Brasil
 12;Mato Grosso do Sul;MS;Brasil
 13;Minas Gerais;MG;Brasil
@@ -18,11 +18,11 @@ cod_estado;estado;sigla_estado;pais
 17;Pernambuco;PE;Brasil
 18;Piaui;PI;Brasil
 19;Rio de Janeiro;RJ;Brasil
-20;Rio Grande do Norte;RN;Brasil
+20;Rio Grande do Norte;RN;
 21;Rio Grande do Sul;RS;Brasil
 22;Rondonia;RO;Brasil
 23;Roraima;RR;Brasil
 24;Santa Catarina;SC;Brasil
 25;Sao Paulo;SP;Brasil
-26;Sergipe;SE;Brasil
+26;Sergipe;SE;
 27;Tocantins;TO;Brasil
