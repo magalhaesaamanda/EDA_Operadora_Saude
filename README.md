@@ -1,4 +1,4 @@
-# EDA - Operadora de Saúde
+# What is a patient's health level?
 
 ## Cenário
 
@@ -18,7 +18,7 @@ Além de responder as seguintes perguntas:
 
 ## Organização do projeto 
 
-            EDA - Operadora de Saúde
+            What_is_a_patients_health_level
             ┣ data
             ┃ ┣ clientes_operadora_saude.xlsx
             ┃ ┣ estados_brasileiros.csv
