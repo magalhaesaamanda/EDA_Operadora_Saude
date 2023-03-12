@@ -12,8 +12,8 @@ Com isso pretende-se neste projeto realizar uma análise exploratória dos dados
 Além de responder as seguintes perguntas:
 
 - Quais as causas do colesterol alto no cliente? O peso interfere?
-- A idade influencia na probabilidade de um cliente ter colesterol alto?
-- Quais clientes deveriam realizar um pré tratamento a fim de cuidar antes mesmo de estar com colesterol alto?
+- A idade influencia na probabilidade de um cliente ter problemas de saúde?
+- Quais clientes deveriam realizar um pré tratamento evitando problemas de saúde futuros?
 - Há alguma relação entre o IMC e o nível de colesterol?
 
 ## Organização do projeto 
