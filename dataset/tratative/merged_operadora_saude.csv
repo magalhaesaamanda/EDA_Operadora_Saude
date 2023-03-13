@@ -1,36 +1,36 @@
 ,id_cliente,altura,peso,colesterol,genero,id_estado,estado,sigla_estado,pais,idade,id_genero,imc,class_imc,class_colest
 0,1,1.87,102,190,Masculino,23,Roraima,RR,Brasil,17,1,29.17,Sobrepeso,Moderado
-1,2,1.82,87,170,Masculino,7,Distrito Federal,DF,Brasil,28,1,26.26,Sobrepeso,Moderado
+1,2,1.82,96,170,Masculino,7,Distrito Federal,DF,Brasil,28,1,28.98,Sobrepeso,Moderado
 2,3,1.9,115,216,Masculino,4,Amazonas,AM,Brasil,62,1,31.86,Obesidade Grau 1,Alto
-3,4,1.9,70,146,Feminino,24,Santa Catarina,SC,Brasil,55,0,19.39,Normal Peso,Moderado
+3,4,1.9,78,146,Feminino,24,Santa Catarina,SC,Brasil,55,0,21.61,Normal Peso,Moderado
 4,5,1.71,130,243,Masculino,26,Sergipe,SE,Brasil,44,1,44.46,Obesidade Grau 3,Muito Alto
-5,6,1.84,184,234,Masculino,8,Espirito Santo,ES,Brasil,17,1,54.35,Obesidade Grau 3,Alto
+5,6,1.84,121,234,Masculino,8,Espirito Santo,ES,Brasil,17,1,35.74,Obesidade Grau 2,Alto
 6,7,1.76,79,201,Masculino,26,Sergipe,SE,Brasil,30,1,25.5,Sobrepeso,Alto
 7,8,1.83,91,206,Feminino,25,Sao Paulo,SP,Brasil,30,0,27.17,Sobrepeso,Alto
 8,9,1.76,112,223,Feminino,16,Parana,PR,Brasil,34,0,36.16,Obesidade Grau 2,Alto
 9,10,1.82,134,221,Masculino,6,Ceara,CE,Brasil,55,1,40.45,Obesidade Grau 3,Alto
-10,11,1.78,51,116,Feminino,3,Amapa,AP,Brasil,50,0,16.1,Baixo Peso,Moderado
+10,11,1.78,59,116,Feminino,3,Amapa,AP,Brasil,50,0,18.62,Normal Peso,Moderado
 11,12,1.71,120,222,Masculino,6,Ceara,CE,Brasil,62,1,41.04,Obesidade Grau 3,Alto
 12,13,1.64,69,145,Feminino,17,Pernambuco,PE,Brasil,52,0,25.65,Sobrepeso,Moderado
-13,14,1.54,102,210,Feminino,7,Distrito Federal,DF,Brasil,34,0,43.01,Obesidade Grau 3,Alto
+13,14,1.54,94,210,Feminino,7,Distrito Federal,DF,Brasil,34,0,39.64,Obesidade Grau 2,Alto
 14,15,1.76,76,152,Feminino,25,Sao Paulo,SP,Brasil,69,0,24.54,Normal Peso,Moderado
 15,16,1.7,102,213,Feminino,14,Para,PA,Brasil,65,0,35.29,Obesidade Grau 2,Alto
-16,17,1.73,59,125,Feminino,3,Amapa,AP,Brasil,61,0,19.71,Normal Peso,Moderado
-17,18,1.89,138,204,Masculino,27,Tocantins,TO,Brasil,65,1,38.63,Obesidade Grau 2,Alto
-18,19,1.8,119,189,Feminino,17,Pernambuco,PE,Brasil,48,0,36.73,Obesidade Grau 2,Moderado
-19,20,1.76,94,163,Feminino,5,Bahia,BA,Brasil,60,0,30.35,Obesidade Grau 1,Moderado
+16,17,1.73,64,125,Feminino,3,Amapa,AP,Brasil,61,0,21.38,Normal Peso,Moderado
+17,18,1.89,138,254,Masculino,27,Tocantins,TO,Brasil,65,1,38.63,Obesidade Grau 2,Muito Alto
+18,19,1.8,101,189,Feminino,17,Pernambuco,PE,Brasil,48,0,31.17,Obesidade Grau 1,Moderado
+19,20,1.76,91,187,Feminino,5,Bahia,BA,Brasil,60,0,29.38,Sobrepeso,Moderado
 21,22,1.68,60,122,Feminino,15,Paraiba,PB,Brasil,28,0,21.26,Normal Peso,Moderado
 22,23,1.87,120,228,Masculino,2,Alagoas,AL,Brasil,63,1,34.32,Obesidade Grau 1,Alto
 23,24,1.64,72,168,Feminino,11,Mato Grosso,MT,Brasil,34,0,26.77,Sobrepeso,Moderado
 24,25,1.68,72,102,Masculino,3,Amapa,AP,Brasil,53,1,25.51,Sobrepeso,Moderado
-25,26,1.62,93,218,Feminino,10,Maranhao,MA,Brasil,42,0,35.44,Obesidade Grau 2,Alto
-26,27,1.77,79,123,Feminino,21,Rio Grande do Sul,RS,Brasil,35,0,25.22,Sobrepeso,Moderado
+25,26,1.62,101,218,Feminino,10,Maranhao,MA,Brasil,42,0,38.48,Obesidade Grau 2,Alto
+26,27,1.77,70,123,Feminino,21,Rio Grande do Sul,RS,Brasil,35,0,22.34,Normal Peso,Moderado
 27,28,1.64,91,222,Feminino,20,Rio Grande do Norte,RN,Brasil,55,0,33.83,Obesidade Grau 1,Alto
 28,29,1.76,121,208,Masculino,14,Para,PA,Brasil,55,1,39.06,Obesidade Grau 2,Alto
-29,30,1.72,149,256,Masculino,13,Minas Gerais,MG,Brasil,62,1,50.37,Obesidade Grau 3,Muito Alto
+29,30,1.72,132,256,Masculino,13,Minas Gerais,MG,Brasil,62,1,44.62,Obesidade Grau 3,Muito Alto
 30,31,1.75,98,204,Masculino,8,Espirito Santo,ES,Brasil,24,1,32.0,Obesidade Grau 1,Alto
 31,32,1.6,75,167,Masculino,3,Amapa,AP,Brasil,29,1,29.3,Sobrepeso,Moderado
-32,33,1.7924107142857142,107,188,Masculino,22,Rondonia,RO,Brasil,56,1,33.3,Obesidade Grau 1,Moderado
+32,33,1.7924107142857142,101,188,Masculino,22,Rondonia,RO,Brasil,56,1,31.44,Obesidade Grau 1,Moderado
 33,34,1.89,93,126,Masculino,18,Piaui,PI,Brasil,54,1,26.04,Sobrepeso,Moderado
 34,35,1.66,82,213,Feminino,6,Ceara,CE,Brasil,60,0,29.76,Sobrepeso,Alto
 35,36,1.87,92,122,Masculino,20,Rio Grande do Norte,RN,Brasil,67,1,26.31,Sobrepeso,Moderado
@@ -39,15 +39,15 @@
 38,39,1.52,63,155,Feminino,10,Maranhao,MA,Brasil,33,0,27.27,Sobrepeso,Moderado
 39,40,1.76,116,219,Masculino,17,Pernambuco,PE,Brasil,60,1,37.45,Obesidade Grau 2,Alto
 40,41,1.82,103,190,Masculino,14,Para,PA,Brasil,60,1,31.1,Obesidade Grau 1,Moderado
-41,42,1.7924107142857142,107,177,Masculino,20,Rio Grande do Norte,RN,Brasil,54,1,33.3,Obesidade Grau 1,Moderado
+41,42,1.7924107142857142,101,177,Masculino,20,Rio Grande do Norte,RN,Brasil,54,1,31.44,Obesidade Grau 1,Moderado
 42,43,1.79,79,139,Masculino,4,Amazonas,AM,Brasil,55,1,24.66,Normal Peso,Moderado
 43,44,1.56,81,224,Feminino,27,Tocantins,TO,Brasil,36,0,33.28,Obesidade Grau 1,Alto
-44,45,1.62,90,207,Masculino,18,Piaui,PI,Brasil,22,1,34.29,Obesidade Grau 1,Alto
+44,45,1.62,93,207,Masculino,18,Piaui,PI,Brasil,22,1,35.44,Obesidade Grau 2,Alto
 45,46,1.86,68,96,Feminino,26,Sergipe,SE,Brasil,65,0,19.66,Normal Peso,Moderado
 46,47,1.89,110,218,Masculino,7,Distrito Federal,DF,Brasil,68,1,30.79,Obesidade Grau 1,Alto
 47,48,1.63,63,164,Feminino,9,Goias,GO,Brasil,38,0,23.71,Normal Peso,Moderado
-49,50,1.69,76,118,Feminino,4,Amazonas,AM,Brasil,70,0,26.61,Sobrepeso,Moderado
-50,51,1.697962962962963,77,138,Feminino,26,Sergipe,SE,Brasil,23,0,26.71,Sobrepeso,Moderado
+49,50,1.69,61,118,Feminino,4,Amazonas,AM,Brasil,70,0,21.36,Normal Peso,Moderado
+50,51,1.697962962962963,76,138,Feminino,26,Sergipe,SE,Brasil,23,0,26.36,Sobrepeso,Moderado
 51,52,1.6,76,199,Masculino,22,Rondonia,RO,Brasil,34,1,29.69,Sobrepeso,Moderado
 52,53,1.81,110,219,Masculino,15,Paraiba,PB,Brasil,30,1,33.58,Obesidade Grau 1,Alto
 53,54,1.82,101,183,Masculino,23,Roraima,RR,Brasil,48,1,30.49,Obesidade Grau 1,Moderado
@@ -69,7 +69,7 @@
 69,70,1.73,80,166,Feminino,11,Mato Grosso,MT,Brasil,49,0,26.73,Sobrepeso,Moderado
 70,71,1.89,121,143,Masculino,26,Sergipe,SE,Brasil,28,1,33.87,Obesidade Grau 1,Moderado
 71,72,1.58,82,163,Feminino,9,Goias,GO,Brasil,42,0,32.85,Obesidade Grau 1,Moderado
-72,73,1.86,130,158,Masculino,2,Alagoas,AL,Brasil,50,1,37.58,Obesidade Grau 2,Moderado
+72,73,1.86,107,158,Masculino,2,Alagoas,AL,Brasil,50,1,30.93,Obesidade Grau 1,Moderado
 73,74,1.53,62,191,Feminino,19,Rio de Janeiro,RJ,Brasil,24,0,26.49,Sobrepeso,Moderado
 74,75,1.78,97,216,Feminino,10,Maranhao,MA,Brasil,31,0,30.61,Obesidade Grau 1,Alto
 75,76,1.81,85,106,Masculino,15,Paraiba,PB,Brasil,43,1,25.95,Sobrepeso,Moderado
@@ -78,30 +78,30 @@
 78,79,1.68,56,131,Feminino,11,Mato Grosso,MT,Brasil,48,0,19.84,Normal Peso,Moderado
 79,80,1.62,64,147,Feminino,27,Tocantins,TO,Brasil,61,0,24.39,Normal Peso,Moderado
 80,81,1.78,69,141,Feminino,4,Amazonas,AM,Brasil,18,0,21.78,Normal Peso,Moderado
-81,82,1.97,113,130,Masculino,7,Distrito Federal,DF,Brasil,58,1,29.12,Sobrepeso,Moderado
+81,82,1.97,113,160,Masculino,7,Distrito Federal,DF,Brasil,58,1,29.12,Sobrepeso,Moderado
 82,83,1.78,112,204,Masculino,14,Para,PA,Brasil,46,1,35.35,Obesidade Grau 2,Alto
 83,84,1.97,126,152,Masculino,26,Sergipe,SE,Brasil,18,1,32.47,Obesidade Grau 1,Moderado
 84,85,1.76,84,111,Masculino,22,Rondonia,RO,Brasil,52,1,27.12,Sobrepeso,Moderado
-85,86,1.6,116,139,Masculino,22,Rondonia,RO,Brasil,66,1,45.31,Obesidade Grau 3,Moderado
-86,87,1.57,81,172,Masculino,5,Bahia,BA,Brasil,43,1,32.86,Obesidade Grau 1,Moderado
+85,86,1.6,65,139,Masculino,22,Rondonia,RO,Brasil,66,1,25.39,Sobrepeso,Moderado
+86,87,1.57,63,172,Masculino,5,Bahia,BA,Brasil,43,1,25.56,Sobrepeso,Moderado
 87,88,1.69,63,168,Feminino,12,Mato Grosso do Sul,MS,Brasil,25,0,22.06,Normal Peso,Moderado
 88,89,1.74,72,148,Feminino,27,Tocantins,TO,Brasil,35,0,23.78,Normal Peso,Moderado
 89,90,1.86,76,123,Feminino,19,Rio de Janeiro,RJ,Brasil,29,0,21.97,Normal Peso,Moderado
 90,91,1.91,96,189,Feminino,22,Rondonia,RO,Brasil,47,0,26.32,Sobrepeso,Moderado
 91,92,1.79,97,220,Feminino,5,Bahia,BA,Brasil,30,0,30.27,Obesidade Grau 1,Alto
-92,93,1.81,106,120,Masculino,22,Rondonia,RO,Brasil,19,1,32.36,Obesidade Grau 1,Moderado
+92,93,1.81,93,120,Masculino,22,Rondonia,RO,Brasil,19,1,28.39,Sobrepeso,Moderado
 93,94,1.76,97,106,Masculino,13,Minas Gerais,MG,Brasil,67,1,31.31,Obesidade Grau 1,Moderado
 94,95,1.62,61,105,Feminino,8,Espirito Santo,ES,Brasil,22,0,23.24,Normal Peso,Moderado
 95,96,1.82,129,157,Masculino,14,Para,PA,Brasil,56,1,38.94,Obesidade Grau 2,Moderado
 96,97,1.75,94,149,Masculino,10,Maranhao,MA,Brasil,28,1,30.69,Obesidade Grau 1,Moderado
 97,98,1.84,80,185,Feminino,1,Acre,AC,Brasil,25,0,23.63,Normal Peso,Moderado
 98,99,1.76,62,106,Feminino,12,Mato Grosso do Sul,MS,Brasil,47,0,20.02,Normal Peso,Moderado
-99,100,1.84,102,115,Masculino,6,Ceara,CE,Brasil,20,1,30.13,Obesidade Grau 1,Moderado
-100,101,1.78,146,177,Masculino,21,Rio Grande do Sul,RS,Brasil,49,1,46.08,Obesidade Grau 3,Moderado
+99,100,1.84,91,115,Masculino,6,Ceara,CE,Brasil,20,1,26.88,Sobrepeso,Moderado
+100,101,1.78,107,197,Masculino,21,Rio Grande do Sul,RS,Brasil,49,1,33.77,Obesidade Grau 1,Moderado
 101,102,1.76,91,230,Feminino,24,Santa Catarina,SC,Brasil,33,0,29.38,Sobrepeso,Alto
-102,103,1.62,84,108,Feminino,18,Piaui,PI,Brasil,29,0,32.01,Obesidade Grau 1,Moderado
-103,104,1.75,103,140,Feminino,1,Acre,AC,Brasil,38,0,33.63,Obesidade Grau 1,Moderado
-104,105,1.97,157,214,Masculino,18,Piaui,PI,Brasil,21,1,40.45,Obesidade Grau 3,Alto
+102,103,1.62,59,108,Feminino,18,Piaui,PI,Brasil,29,0,22.48,Normal Peso,Moderado
+103,104,1.75,90,170,Feminino,1,Acre,AC,Brasil,38,0,29.39,Sobrepeso,Moderado
+104,105,1.97,119,214,Masculino,18,Piaui,PI,Brasil,21,1,30.66,Obesidade Grau 1,Alto
 105,106,1.84,113,216,Masculino,21,Rio Grande do Sul,RS,Brasil,56,1,33.38,Obesidade Grau 1,Alto
 106,107,1.54,56,130,Feminino,4,Amazonas,AM,Brasil,50,0,23.61,Normal Peso,Moderado
 107,108,1.65,61,169,Feminino,17,Pernambuco,PE,Brasil,65,0,22.41,Normal Peso,Moderado
@@ -111,20 +111,20 @@
 111,112,1.77,116,214,Masculino,11,Mato Grosso,MT,Brasil,66,1,37.03,Obesidade Grau 2,Alto
 112,113,1.88,73,145,Masculino,1,Acre,AC,Brasil,39,1,20.65,Normal Peso,Moderado
 113,114,1.96,105,116,Masculino,4,Amazonas,AM,Brasil,44,1,27.33,Sobrepeso,Moderado
-114,115,1.61,84,209,Feminino,6,Ceara,CE,Brasil,21,0,32.41,Obesidade Grau 1,Alto
-115,116,1.84,103,116,Masculino,10,Maranhao,MA,Brasil,22,1,30.42,Obesidade Grau 1,Moderado
+114,115,1.61,94,209,Feminino,6,Ceara,CE,Brasil,21,0,36.26,Obesidade Grau 2,Alto
+115,116,1.84,82,116,Masculino,10,Maranhao,MA,Brasil,22,1,24.22,Normal Peso,Moderado
 116,117,1.72,72,139,Masculino,5,Bahia,BA,Brasil,44,1,24.34,Normal Peso,Moderado
-117,118,1.82,118,143,Masculino,18,Piaui,PI,Brasil,48,1,35.62,Obesidade Grau 2,Moderado
+117,118,1.82,118,180,Masculino,18,Piaui,PI,Brasil,48,1,35.62,Obesidade Grau 2,Moderado
 118,119,1.72,89,168,Feminino,9,Goias,GO,Brasil,32,0,30.08,Obesidade Grau 1,Moderado
 119,120,1.77,134,158,Masculino,19,Rio de Janeiro,RJ,Brasil,32,1,42.77,Obesidade Grau 3,Moderado
-120,121,1.82,175,232,Masculino,4,Amazonas,AM,Brasil,60,1,52.83,Obesidade Grau 3,Alto
+120,121,1.82,111,232,Masculino,4,Amazonas,AM,Brasil,60,1,33.51,Obesidade Grau 1,Alto
 121,122,1.84,83,136,Masculino,10,Maranhao,MA,Brasil,36,1,24.52,Normal Peso,Moderado
-122,123,1.82,104,180,Feminino,16,Parana,PR,Brasil,47,0,31.4,Obesidade Grau 1,Moderado
+122,123,1.82,104,196,Feminino,16,Parana,PR,Brasil,47,0,31.4,Obesidade Grau 1,Moderado
 123,124,1.64,92,228,Feminino,7,Distrito Federal,DF,Brasil,28,0,34.21,Obesidade Grau 1,Alto
 124,125,1.69,118,222,Masculino,10,Maranhao,MA,Brasil,50,1,41.32,Obesidade Grau 3,Alto
-125,126,1.66,77,117,Feminino,12,Mato Grosso do Sul,MS,Brasil,30,0,27.94,Sobrepeso,Moderado
-126,127,1.63,152,224,Masculino,2,Alagoas,AL,Brasil,46,1,57.21,Obesidade Grau 3,Alto
-127,128,1.85,90,104,Feminino,20,Rio Grande do Norte,RN,Brasil,21,0,26.3,Sobrepeso,Moderado
+125,126,1.66,62,117,Feminino,12,Mato Grosso do Sul,MS,Brasil,30,0,22.5,Normal Peso,Moderado
+126,127,1.63,113,224,Masculino,2,Alagoas,AL,Brasil,46,1,42.53,Obesidade Grau 3,Alto
+127,128,1.85,82,104,Feminino,20,Rio Grande do Norte,RN,Brasil,21,0,23.96,Normal Peso,Moderado
 128,129,1.69,73,195,Feminino,18,Piaui,PI,Brasil,35,0,25.56,Sobrepeso,Moderado
 129,130,1.71,86,156,Feminino,3,Amapa,AP,Brasil,37,0,29.41,Sobrepeso,Moderado
 130,131,1.69,92,213,Feminino,7,Distrito Federal,DF,Brasil,21,0,32.21,Obesidade Grau 1,Alto
@@ -136,16 +136,16 @@
 136,137,1.6,72,124,Feminino,19,Rio de Janeiro,RJ,Brasil,24,0,28.12,Sobrepeso,Moderado
 137,138,1.76,106,231,Masculino,6,Ceara,CE,Brasil,39,1,34.22,Obesidade Grau 1,Alto
 138,139,1.58,63,172,Feminino,6,Ceara,CE,Brasil,35,0,25.24,Sobrepeso,Moderado
-139,140,1.79,97,104,Masculino,12,Mato Grosso do Sul,MS,Brasil,57,1,30.27,Obesidade Grau 1,Moderado
+139,140,1.79,81,104,Masculino,12,Mato Grosso do Sul,MS,Brasil,57,1,25.28,Sobrepeso,Moderado
 140,141,1.73,91,221,Feminino,14,Para,PA,Brasil,48,0,30.41,Obesidade Grau 1,Alto
 141,142,1.54,61,128,Feminino,22,Rondonia,RO,Brasil,62,0,25.72,Sobrepeso,Moderado
 142,143,1.6,84,222,Feminino,8,Espirito Santo,ES,Brasil,48,0,32.81,Obesidade Grau 1,Alto
 143,144,1.82,135,214,Masculino,2,Alagoas,AL,Brasil,53,1,40.76,Obesidade Grau 3,Alto
 144,145,1.71,94,184,Masculino,17,Pernambuco,PE,Brasil,63,1,32.15,Obesidade Grau 1,Moderado
-145,146,1.69,107,204,Masculino,24,Santa Catarina,SC,Brasil,49,1,37.46,Obesidade Grau 2,Alto
+145,146,1.69,91,204,Masculino,24,Santa Catarina,SC,Brasil,49,1,31.86,Obesidade Grau 1,Alto
 146,147,1.76,108,171,Masculino,23,Roraima,RR,Brasil,40,1,34.87,Obesidade Grau 1,Moderado
 147,148,1.69,84,195,Masculino,13,Minas Gerais,MG,Brasil,28,1,29.41,Sobrepeso,Moderado
-148,149,1.82,114,132,Masculino,20,Rio Grande do Norte,RN,Brasil,45,1,34.42,Obesidade Grau 1,Moderado
+148,149,1.82,94,132,Masculino,20,Rio Grande do Norte,RN,Brasil,45,1,28.38,Sobrepeso,Moderado
 149,150,1.64,99,214,Feminino,25,Sao Paulo,SP,Brasil,39,0,36.81,Obesidade Grau 2,Alto
 150,151,1.98,111,123,Masculino,2,Alagoas,AL,Brasil,52,1,28.31,Sobrepeso,Moderado
 151,152,1.7,98,233,Masculino,27,Tocantins,TO,Brasil,55,1,33.91,Obesidade Grau 1,Alto
@@ -156,7 +156,7 @@
 156,157,1.79,91,185,Masculino,24,Santa Catarina,SC,Brasil,69,1,28.4,Sobrepeso,Moderado
 157,158,1.83,68,142,Masculino,3,Amapa,AP,Brasil,55,1,20.31,Normal Peso,Moderado
 158,159,1.61,90,225,Feminino,19,Rio de Janeiro,RJ,Brasil,58,0,34.72,Obesidade Grau 1,Alto
-159,160,1.84,160,212,Masculino,11,Mato Grosso,MT,Brasil,23,1,47.26,Obesidade Grau 3,Alto
+159,160,1.84,121,212,Masculino,11,Mato Grosso,MT,Brasil,23,1,35.74,Obesidade Grau 2,Alto
 160,161,1.68,84,161,Feminino,18,Piaui,PI,Brasil,16,0,29.76,Sobrepeso,Moderado
 161,162,1.77,126,220,Masculino,4,Amazonas,AM,Brasil,24,1,40.22,Obesidade Grau 3,Alto
 162,163,1.69,53,168,Feminino,24,Santa Catarina,SC,Brasil,45,0,18.56,Normal Peso,Moderado
@@ -165,25 +165,25 @@
 165,166,1.7,73,144,Feminino,15,Paraiba,PB,Brasil,29,0,25.26,Sobrepeso,Moderado
 166,167,1.73,127,201,Masculino,13,Minas Gerais,MG,Brasil,66,1,42.43,Obesidade Grau 3,Alto
 167,168,1.9,114,222,Masculino,11,Mato Grosso,MT,Brasil,34,1,31.58,Obesidade Grau 1,Alto
-168,169,1.74,154,189,Masculino,17,Pernambuco,PE,Brasil,53,1,50.87,Obesidade Grau 3,Moderado
+168,169,1.74,120,189,Masculino,17,Pernambuco,PE,Brasil,53,1,39.64,Obesidade Grau 2,Moderado
 169,170,1.61,67,132,Feminino,8,Espirito Santo,ES,Brasil,22,0,25.85,Sobrepeso,Moderado
 170,171,1.72,102,204,Feminino,13,Minas Gerais,MG,Brasil,55,0,34.48,Obesidade Grau 1,Alto
-171,172,1.69,110,201,Feminino,11,Mato Grosso,MT,Brasil,61,0,38.51,Obesidade Grau 2,Alto
+171,172,1.69,94,201,Feminino,11,Mato Grosso,MT,Brasil,61,0,32.91,Obesidade Grau 1,Alto
 172,173,1.78,101,211,Feminino,19,Rio de Janeiro,RJ,Brasil,57,0,31.88,Obesidade Grau 1,Alto
 173,174,1.73,69,156,Masculino,12,Mato Grosso do Sul,MS,Brasil,28,1,23.05,Normal Peso,Moderado
 174,175,1.9,112,179,Masculino,21,Rio Grande do Sul,RS,Brasil,55,1,31.02,Obesidade Grau 1,Moderado
 175,176,1.69,70,129,Feminino,22,Rondonia,RO,Brasil,20,0,24.51,Normal Peso,Moderado
 176,177,1.83,54,185,Feminino,22,Rondonia,RO,Brasil,24,0,16.12,Baixo Peso,Moderado
-177,178,1.6,103,107,Masculino,3,Amapa,AP,Brasil,40,1,40.23,Obesidade Grau 3,Moderado
+177,178,1.6,93,199,Masculino,3,Amapa,AP,Brasil,40,1,36.33,Obesidade Grau 2,Moderado
 178,179,1.83,119,213,Masculino,3,Amapa,AP,Brasil,43,1,35.53,Obesidade Grau 2,Alto
 179,180,1.55,71,172,Feminino,6,Ceara,CE,Brasil,33,0,29.55,Sobrepeso,Moderado
 180,181,1.75,84,193,Masculino,24,Santa Catarina,SC,Brasil,36,1,27.43,Sobrepeso,Moderado
 181,182,1.95,101,114,Masculino,18,Piaui,PI,Brasil,27,1,26.56,Sobrepeso,Moderado
-182,183,1.8,121,202,Masculino,26,Sergipe,SE,Brasil,53,1,37.35,Obesidade Grau 2,Alto
+182,183,1.8,109,202,Masculino,26,Sergipe,SE,Brasil,53,1,33.64,Obesidade Grau 1,Alto
 183,184,1.68,94,222,Feminino,8,Espirito Santo,ES,Brasil,18,0,33.3,Obesidade Grau 1,Alto
 184,185,1.65,62,168,Feminino,21,Rio Grande do Sul,RS,Brasil,33,0,22.77,Normal Peso,Moderado
-185,186,1.8,123,146,Masculino,14,Para,PA,Brasil,60,1,37.96,Obesidade Grau 2,Moderado
-186,187,1.83,90,170,Feminino,10,Maranhao,MA,Brasil,20,0,26.87,Sobrepeso,Moderado
+185,186,1.8,123,164,Masculino,14,Para,PA,Brasil,60,1,37.96,Obesidade Grau 2,Moderado
+186,187,1.83,90,151,Feminino,10,Maranhao,MA,Brasil,20,0,26.87,Sobrepeso,Moderado
 187,188,1.86,83,165,Masculino,19,Rio de Janeiro,RJ,Brasil,31,1,23.99,Normal Peso,Moderado
 188,189,1.88,96,196,Feminino,15,Paraiba,PB,Brasil,42,0,27.16,Sobrepeso,Moderado
 189,190,1.56,84,224,Feminino,20,Rio Grande do Norte,RN,Brasil,66,0,34.52,Obesidade Grau 1,Alto
@@ -192,23 +192,23 @@
 192,193,1.82,112,224,Feminino,5,Bahia,BA,Brasil,62,0,33.81,Obesidade Grau 1,Alto
 193,194,1.58,72,136,Feminino,21,Rio Grande do Sul,RS,Brasil,35,0,28.84,Sobrepeso,Moderado
 194,195,1.88,88,152,Feminino,3,Amapa,AP,Brasil,24,0,24.9,Normal Peso,Moderado
-195,196,1.65,82,143,Feminino,15,Paraiba,PB,Brasil,48,0,30.12,Obesidade Grau 1,Moderado
-196,197,1.83,101,135,Masculino,23,Roraima,RR,Brasil,32,1,30.16,Obesidade Grau 1,Moderado
+195,196,1.65,71,143,Feminino,15,Paraiba,PB,Brasil,48,0,26.08,Sobrepeso,Moderado
+196,197,1.83,83,135,Masculino,23,Roraima,RR,Brasil,32,1,24.78,Normal Peso,Moderado
 197,198,1.84,122,211,Masculino,11,Mato Grosso,MT,Brasil,28,1,36.03,Obesidade Grau 2,Alto
 198,199,1.74,81,156,Masculino,10,Maranhao,MA,Brasil,70,1,26.75,Sobrepeso,Moderado
-199,200,1.72,103,115,Masculino,16,Parana,PR,Brasil,62,1,34.82,Obesidade Grau 1,Moderado
-200,201,1.84,120,143,Masculino,4,Amazonas,AM,Brasil,67,1,35.44,Obesidade Grau 2,Moderado
+199,200,1.72,81,115,Masculino,16,Parana,PR,Brasil,62,1,27.38,Sobrepeso,Moderado
+200,201,1.84,120,184,Masculino,4,Amazonas,AM,Brasil,67,1,35.44,Obesidade Grau 2,Moderado
 201,202,1.79,92,179,Masculino,23,Roraima,RR,Brasil,31,1,28.71,Sobrepeso,Moderado
 202,203,1.75,61,173,Feminino,1,Acre,AC,Brasil,16,0,19.92,Normal Peso,Moderado
 203,204,1.56,69,148,Feminino,23,Roraima,RR,Brasil,21,0,28.35,Sobrepeso,Moderado
 204,205,1.75,53,127,Feminino,7,Distrito Federal,DF,Brasil,50,0,17.31,Baixo Peso,Moderado
 205,206,1.76,52,174,Feminino,3,Amapa,AP,Brasil,53,0,16.79,Baixo Peso,Moderado
 206,207,1.84,117,225,Feminino,20,Rio Grande do Norte,RN,Brasil,54,0,34.56,Obesidade Grau 1,Alto
-207,208,1.96,110,127,Masculino,9,Goias,GO,Brasil,35,1,28.63,Sobrepeso,Moderado
-208,209,1.73,100,106,Masculino,14,Para,PA,Brasil,60,1,33.41,Obesidade Grau 1,Moderado
+207,208,1.96,102,127,Masculino,9,Goias,GO,Brasil,35,1,26.55,Sobrepeso,Moderado
+208,209,1.73,80,106,Masculino,14,Para,PA,Brasil,60,1,26.73,Sobrepeso,Moderado
 209,210,1.72,50,112,Feminino,6,Ceara,CE,Brasil,41,0,16.9,Baixo Peso,Moderado
 210,211,1.72,93,164,Masculino,8,Espirito Santo,ES,Brasil,17,1,31.44,Obesidade Grau 1,Moderado
-211,212,1.97,128,151,Masculino,14,Para,PA,Brasil,50,1,32.98,Obesidade Grau 1,Moderado
+211,212,1.97,128,168,Masculino,14,Para,PA,Brasil,50,1,32.98,Obesidade Grau 1,Moderado
 212,213,1.68,59,191,Feminino,15,Paraiba,PB,Brasil,36,0,20.9,Normal Peso,Moderado
 213,214,1.69,57,110,Feminino,6,Ceara,CE,Brasil,67,0,19.96,Normal Peso,Moderado
 214,215,1.86,91,116,Masculino,9,Goias,GO,Brasil,67,1,26.3,Sobrepeso,Moderado
@@ -216,9 +216,9 @@
 216,217,1.75,96,235,Feminino,12,Mato Grosso do Sul,MS,Brasil,62,0,31.35,Obesidade Grau 1,Alto
 217,218,1.64,71,108,Feminino,21,Rio Grande do Sul,RS,Brasil,43,0,26.4,Sobrepeso,Moderado
 218,219,1.71,83,141,Feminino,19,Rio de Janeiro,RJ,Brasil,50,0,28.38,Sobrepeso,Moderado
-219,220,1.86,153,231,Masculino,25,Sao Paulo,SP,Brasil,32,1,44.22,Obesidade Grau 3,Alto
+219,220,1.86,119,231,Masculino,25,Sao Paulo,SP,Brasil,32,1,34.4,Obesidade Grau 1,Alto
 220,221,1.72,96,219,Masculino,20,Rio Grande do Norte,RN,Brasil,33,1,32.45,Obesidade Grau 1,Alto
 221,222,1.62,76,138,Feminino,15,Paraiba,PB,Brasil,38,0,28.96,Sobrepeso,Moderado
 222,223,1.69,65,169,Feminino,18,Piaui,PI,Brasil,24,0,22.76,Normal Peso,Moderado
 223,224,1.91,102,116,Masculino,6,Ceara,CE,Brasil,31,1,27.96,Sobrepeso,Moderado
-224,225,1.67,102,212,Masculino,7,Distrito Federal,DF,Brasil,57,1,36.57,Obesidade Grau 2,Alto
+224,225,1.67,98,212,Masculino,7,Distrito Federal,DF,Brasil,57,1,35.14,Obesidade Grau 2,Alto
