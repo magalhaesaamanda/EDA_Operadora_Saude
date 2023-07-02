@@ -1,226 +1,224 @@
-,id_cliente,id_genero,genero,idade,peso,colesterol,id_estado,estado,sigla_estado,clusters,nome_cluster
-0,1,1,Masculino,17,102.0,111,23,Roraima,RR,1,Baixo Risco
-1,2,1,Masculino,28,115.0,135,7,Distrito Federal,DF,1,Baixo Risco
-2,3,1,Masculino,62,115.0,136,4,Amazonas,AM,1,Baixo Risco
-3,4,0,Feminino,55,140.0,167,24,Santa Catarina,SC,2,Moderado Risco
-4,5,1,Masculino,44,130.0,158,26,Sergipe,SE,2,Moderado Risco
-5,6,1,Masculino,17,198.0,227,8,Espirito Santo,ES,0,Alto Risco
-6,7,1,Masculino,30,114.0,131,26,Sergipe,SE,1,Baixo Risco
-7,8,0,Feminino,30,145.0,176,25,Sao Paulo,SP,2,Moderado Risco
-8,9,0,Feminino,34,191.0,223,16,Parana,PR,0,Alto Risco
-9,10,1,Masculino,55,186.0,221,6,Ceara,CE,0,Alto Risco
-10,11,0,Feminino,50,104.0,116,3,Amapa,AP,1,Baixo Risco
-11,12,1,Masculino,62,188.0,222,6,Ceara,CE,0,Alto Risco
-12,13,0,Feminino,52,96.0,102,17,Pernambuco,PE,1,Baixo Risco
-13,14,0,Feminino,34,156.0,192,7,Distrito Federal,DF,2,Moderado Risco
-14,15,0,Feminino,69,125.0,152,25,Sao Paulo,SP,2,Moderado Risco
-15,16,0,Feminino,65,178.0,213,14,Para,PA,0,Alto Risco
-16,17,0,Feminino,61,109.0,125,3,Amapa,AP,1,Baixo Risco
-17,18,1,Masculino,65,168.0,204,27,Tocantins,TO,0,Alto Risco
-18,19,0,Feminino,48,152.0,189,17,Pernambuco,PE,2,Moderado Risco
-19,20,0,Feminino,60,133.0,163,5,Bahia,BA,2,Moderado Risco
-20,21,0,Feminino,70,153.0,189,5,Bahia,BA,2,Moderado Risco
-21,22,0,Feminino,28,107.0,122,15,Paraiba,PB,1,Baixo Risco
-22,23,1,Masculino,63,199.0,228,2,Alagoas,AL,0,Alto Risco
-23,24,0,Feminino,34,140.0,168,11,Mato Grosso,MT,2,Moderado Risco
-24,25,1,Masculino,53,95.0,102,3,Amapa,AP,1,Baixo Risco
-25,26,0,Feminino,42,183.0,218,10,Maranhao,MA,0,Alto Risco
-26,27,0,Feminino,35,108.0,123,21,Rio Grande do Sul,RS,1,Baixo Risco
-27,28,0,Feminino,55,190.0,222,20,Rio Grande do Norte,RN,0,Alto Risco
-28,29,1,Masculino,55,174.0,208,14,Para,PA,0,Alto Risco
-29,30,1,Masculino,62,149.0,183,13,Minas Gerais,MG,2,Moderado Risco
-30,31,1,Masculino,24,169.0,204,8,Espirito Santo,ES,0,Alto Risco
-31,32,1,Masculino,29,138.0,167,3,Amapa,AP,2,Moderado Risco
-32,33,1,Masculino,56,142.32,188,22,Rondonia,RO,2,Moderado Risco
-33,34,1,Masculino,54,109.0,126,18,Piaui,PI,1,Baixo Risco
-34,35,0,Feminino,60,178.0,213,6,Ceara,CE,0,Alto Risco
-35,36,1,Masculino,67,106.0,122,20,Rio Grande do Norte,RN,1,Baixo Risco
-36,37,1,Masculino,16,195.0,225,17,Pernambuco,PE,0,Alto Risco
-37,38,1,Masculino,42,96.0,105,1,Acre,AC,1,Baixo Risco
-38,39,0,Feminino,33,129.0,155,10,Maranhao,MA,2,Moderado Risco
-39,40,1,Masculino,60,166.0,203,17,Pernambuco,PE,0,Alto Risco
-40,41,1,Masculino,60,197.0,225,14,Para,PA,0,Alto Risco
-41,42,1,Masculino,54,142.32,177,20,Rio Grande do Norte,RN,2,Moderado Risco
-42,43,1,Masculino,55,117.0,139,4,Amazonas,AM,1,Baixo Risco
-43,44,0,Feminino,36,193.0,224,27,Tocantins,TO,0,Alto Risco
-44,45,1,Masculino,22,170.0,207,18,Piaui,PI,0,Alto Risco
-45,46,0,Feminino,65,130.0,158,26,Sergipe,SE,2,Moderado Risco
-46,47,1,Masculino,68,183.0,218,7,Distrito Federal,DF,0,Alto Risco
-47,48,0,Feminino,38,134.0,164,9,Goias,GO,2,Moderado Risco
-48,49,0,Feminino,38,128.0,154,7,Distrito Federal,DF,2,Moderado Risco
-49,50,0,Feminino,70,105.0,118,4,Amazonas,AM,1,Baixo Risco
-50,51,0,Feminino,23,115.0,138,26,Sergipe,SE,1,Baixo Risco
-51,52,1,Masculino,34,166.0,199,22,Rondonia,RO,0,Alto Risco
-52,53,1,Masculino,30,183.0,219,15,Paraiba,PB,0,Alto Risco
-53,54,1,Masculino,48,149.0,183,23,Roraima,RR,2,Moderado Risco
-54,55,0,Feminino,36,110.0,128,9,Goias,GO,1,Baixo Risco
-55,56,0,Feminino,25,164.0,197,4,Amazonas,AM,0,Alto Risco
-56,57,0,Feminino,65,157.0,196,7,Distrito Federal,DF,2,Moderado Risco
-57,58,0,Feminino,39,170.0,208,7,Distrito Federal,DF,0,Alto Risco
-58,59,1,Masculino,58,124.0,152,8,Espirito Santo,ES,2,Moderado Risco
-59,60,1,Masculino,38,145.0,175,22,Rondonia,RO,2,Moderado Risco
-60,61,0,Feminino,70,113.0,129,23,Roraima,RR,1,Baixo Risco
-61,62,0,Feminino,47,150.0,185,8,Espirito Santo,ES,2,Moderado Risco
-62,63,1,Masculino,57,100.0,107,16,Parana,PR,1,Baixo Risco
-63,64,1,Masculino,58,178.0,211,12,Mato Grosso do Sul,MS,0,Alto Risco
-64,65,0,Feminino,30,139.0,167,6,Ceara,CE,2,Moderado Risco
-65,66,1,Masculino,25,150.0,185,21,Rio Grande do Sul,RS,2,Moderado Risco
-66,67,1,Masculino,30,101.0,110,24,Santa Catarina,SC,1,Baixo Risco
-67,68,1,Masculino,48,157.0,194,19,Rio de Janeiro,RJ,2,Moderado Risco
-68,69,0,Feminino,35,187.0,221,21,Rio Grande do Sul,RS,0,Alto Risco
-69,70,0,Feminino,49,137.0,166,11,Mato Grosso,MT,2,Moderado Risco
-70,71,1,Masculino,28,121.0,143,26,Sergipe,SE,1,Baixo Risco
-71,72,0,Feminino,42,132.0,163,9,Goias,GO,2,Moderado Risco
-72,73,1,Masculino,50,130.0,158,2,Alagoas,AL,2,Moderado Risco
-73,74,0,Feminino,24,156.0,191,19,Rio de Janeiro,RJ,2,Moderado Risco
-74,75,0,Feminino,31,180.0,216,10,Maranhao,MA,0,Alto Risco
-75,76,1,Masculino,43,100.0,106,15,Paraiba,PB,1,Baixo Risco
-76,77,0,Feminino,39,122.0,146,17,Pernambuco,PE,1,Baixo Risco
-77,78,0,Feminino,34,185.0,220,13,Minas Gerais,MG,0,Alto Risco
-78,79,0,Feminino,48,113.0,131,11,Mato Grosso,MT,1,Baixo Risco
-79,80,0,Feminino,61,123.0,147,27,Tocantins,TO,1,Baixo Risco
-80,81,0,Feminino,18,119.0,141,4,Amazonas,AM,1,Baixo Risco
-81,82,1,Masculino,58,113.0,130,7,Distrito Federal,DF,1,Baixo Risco
-82,83,1,Masculino,46,168.0,204,14,Para,PA,0,Alto Risco
-83,84,1,Masculino,18,126.0,152,26,Sergipe,SE,2,Moderado Risco
-84,85,1,Masculino,52,102.0,111,22,Rondonia,RO,1,Baixo Risco
-85,86,1,Masculino,66,116.0,139,22,Rondonia,RO,1,Baixo Risco
-86,87,1,Masculino,43,144.0,172,5,Bahia,BA,2,Moderado Risco
-87,88,0,Feminino,25,142.32,168,12,Mato Grosso do Sul,MS,2,Moderado Risco
-88,89,0,Feminino,35,124.0,148,27,Tocantins,TO,1,Baixo Risco
-89,90,0,Feminino,29,108.0,123,19,Rio de Janeiro,RJ,1,Baixo Risco
-90,91,0,Feminino,47,154.0,189,22,Rondonia,RO,2,Moderado Risco
-91,92,0,Feminino,30,185.0,220,5,Bahia,BA,0,Alto Risco
-92,93,1,Masculino,19,106.0,120,22,Rondonia,RO,1,Baixo Risco
-93,94,1,Masculino,67,97.0,106,13,Minas Gerais,MG,1,Baixo Risco
-94,95,0,Feminino,22,96.0,105,8,Espirito Santo,ES,1,Baixo Risco
-95,96,1,Masculino,56,129.0,157,14,Para,PA,2,Moderado Risco
-96,97,1,Masculino,28,124.0,149,10,Maranhao,MA,1,Baixo Risco
-97,98,0,Feminino,25,149.0,185,1,Acre,AC,2,Moderado Risco
-98,99,0,Feminino,47,97.0,106,12,Mato Grosso do Sul,MS,1,Baixo Risco
-99,100,1,Masculino,20,102.0,115,6,Ceara,CE,1,Baixo Risco
-100,101,1,Masculino,49,146.0,177,21,Rio Grande do Sul,RS,2,Moderado Risco
-101,102,0,Feminino,33,199.0,230,24,Santa Catarina,SC,0,Alto Risco
-102,103,0,Feminino,29,100.0,108,18,Piaui,PI,1,Baixo Risco
-103,104,0,Feminino,38,118.0,140,1,Acre,AC,1,Baixo Risco
-104,105,1,Masculino,21,179.0,214,18,Piaui,PI,0,Alto Risco
-105,106,1,Masculino,56,179.0,216,21,Rio Grande do Sul,RS,0,Alto Risco
-106,107,0,Feminino,50,113.0,130,4,Amazonas,AM,1,Baixo Risco
-107,108,0,Feminino,65,142.0,169,17,Pernambuco,PE,2,Moderado Risco
-108,109,1,Masculino,48,101.0,110,4,Amazonas,AM,1,Baixo Risco
-109,110,1,Masculino,63,174.0,209,2,Alagoas,AL,0,Alto Risco
-110,111,1,Masculino,23,131.0,162,22,Rondonia,RO,2,Moderado Risco
-111,112,1,Masculino,66,179.0,214,11,Mato Grosso,MT,0,Alto Risco
-112,113,1,Masculino,39,122.0,145,1,Acre,AC,1,Baixo Risco
-113,114,1,Masculino,44,105.0,116,4,Amazonas,AM,1,Baixo Risco
-114,115,0,Feminino,21,176.0,209,6,Ceara,CE,0,Alto Risco
-115,116,1,Masculino,22,103.0,116,10,Maranhao,MA,1,Baixo Risco
-116,117,1,Masculino,44,120.0,139,5,Bahia,BA,1,Baixo Risco
-117,118,1,Masculino,48,118.0,143,18,Piaui,PI,1,Baixo Risco
-118,119,0,Feminino,32,143.0,168,9,Goias,GO,2,Moderado Risco
-119,120,1,Masculino,32,134.0,158,19,Rio de Janeiro,RJ,2,Moderado Risco
-120,121,1,Masculino,60,203.0,232,4,Amazonas,AM,0,Alto Risco
-121,122,1,Masculino,36,116.0,136,10,Maranhao,MA,1,Baixo Risco
-122,123,0,Feminino,47,150.0,180,16,Parana,PR,2,Moderado Risco
-123,124,0,Feminino,28,192.0,228,7,Distrito Federal,DF,0,Alto Risco
-124,125,1,Masculino,50,187.0,222,10,Maranhao,MA,0,Alto Risco
-125,126,0,Feminino,30,107.0,117,12,Mato Grosso do Sul,MS,1,Baixo Risco
-126,127,1,Masculino,46,192.0,224,2,Alagoas,AL,0,Alto Risco
-127,128,0,Feminino,21,97.0,104,20,Rio Grande do Norte,RN,1,Baixo Risco
-128,129,0,Feminino,35,157.0,195,18,Piaui,PI,2,Moderado Risco
-129,130,0,Feminino,37,128.0,156,3,Amapa,AP,2,Moderado Risco
-130,131,0,Feminino,21,183.0,213,7,Distrito Federal,DF,0,Alto Risco
-131,132,0,Feminino,26,112.0,133,9,Goias,GO,1,Baixo Risco
-132,133,1,Masculino,69,173.0,208,7,Distrito Federal,DF,0,Alto Risco
-133,134,0,Feminino,52,156.0,195,27,Tocantins,TO,2,Moderado Risco
-134,135,0,Feminino,53,137.0,163,16,Parana,PR,2,Moderado Risco
-135,136,0,Feminino,59,156.0,195,25,Sao Paulo,SP,2,Moderado Risco
-136,137,0,Feminino,24,112.0,124,19,Rio de Janeiro,RJ,1,Baixo Risco
-137,138,1,Masculino,39,203.0,231,6,Ceara,CE,0,Alto Risco
-138,139,0,Feminino,35,141.0,172,6,Ceara,CE,2,Moderado Risco
-139,140,1,Masculino,57,97.0,104,12,Mato Grosso do Sul,MS,1,Baixo Risco
-140,141,0,Feminino,48,186.0,221,14,Para,PA,0,Alto Risco
-141,142,0,Feminino,62,113.0,128,22,Rondonia,RO,1,Baixo Risco
-142,143,0,Feminino,48,195.0,222,8,Espirito Santo,ES,0,Alto Risco
-143,144,1,Masculino,53,175.0,214,2,Alagoas,AL,0,Alto Risco
-144,145,1,Masculino,63,154.0,184,17,Pernambuco,PE,2,Moderado Risco
-145,146,1,Masculino,49,173.0,204,24,Santa Catarina,SC,0,Alto Risco
-146,147,1,Masculino,40,141.0,171,23,Roraima,RR,2,Moderado Risco
-147,148,1,Masculino,28,152.0,195,13,Minas Gerais,MG,2,Moderado Risco
-148,149,1,Masculino,45,114.0,132,20,Rio Grande do Norte,RN,1,Baixo Risco
-149,150,0,Feminino,39,181.0,214,25,Sao Paulo,SP,0,Alto Risco
-150,151,1,Masculino,52,111.0,123,2,Alagoas,AL,1,Baixo Risco
-151,152,1,Masculino,55,200.0,233,27,Tocantins,TO,0,Alto Risco
-152,153,1,Masculino,29,100.0,107,26,Sergipe,SE,1,Baixo Risco
-153,154,0,Feminino,26,134.0,162,23,Roraima,RR,2,Moderado Risco
-154,155,1,Masculino,16,167.0,204,11,Mato Grosso,MT,0,Alto Risco
-155,156,1,Masculino,41,198.0,227,17,Pernambuco,PE,0,Alto Risco
-156,157,1,Masculino,69,151.0,185,24,Santa Catarina,SC,2,Moderado Risco
-157,158,1,Masculino,55,121.0,142,3,Amapa,AP,1,Baixo Risco
-158,159,0,Feminino,58,196.0,225,19,Rio de Janeiro,RJ,0,Alto Risco
-159,160,1,Masculino,23,171.0,212,11,Mato Grosso,MT,0,Alto Risco
-160,161,0,Feminino,16,135.0,161,18,Piaui,PI,2,Moderado Risco
-161,162,1,Masculino,24,186.0,220,4,Amazonas,AM,0,Alto Risco
-162,163,0,Feminino,45,138.0,168,24,Santa Catarina,SC,2,Moderado Risco
-163,164,0,Feminino,51,133.0,155,23,Roraima,RR,2,Moderado Risco
-164,165,0,Feminino,70,107.0,125,18,Piaui,PI,1,Baixo Risco
-165,166,0,Feminino,29,120.0,144,15,Paraiba,PB,1,Baixo Risco
-166,167,1,Masculino,66,168.0,201,13,Minas Gerais,MG,0,Alto Risco
-167,168,1,Masculino,34,184.0,222,11,Mato Grosso,MT,0,Alto Risco
-168,169,1,Masculino,53,154.0,189,17,Pernambuco,PE,2,Moderado Risco
-169,170,0,Feminino,22,115.0,132,8,Espirito Santo,ES,1,Baixo Risco
-170,171,0,Feminino,55,168.0,204,13,Minas Gerais,MG,0,Alto Risco
-171,172,0,Feminino,61,161.0,201,11,Mato Grosso,MT,0,Alto Risco
-172,173,0,Feminino,57,171.0,211,19,Rio de Janeiro,RJ,0,Alto Risco
-173,174,1,Masculino,28,129.0,156,12,Mato Grosso do Sul,MS,2,Moderado Risco
-174,175,1,Masculino,55,150.0,179,21,Rio Grande do Sul,RS,2,Moderado Risco
-175,176,0,Feminino,20,118.0,129,22,Rondonia,RO,1,Baixo Risco
-176,177,0,Feminino,24,154.0,185,22,Rondonia,RO,2,Moderado Risco
-177,178,1,Masculino,40,103.0,107,3,Amapa,AP,1,Baixo Risco
-178,179,1,Masculino,43,180.0,213,3,Amapa,AP,0,Alto Risco
-179,180,0,Feminino,33,141.0,172,6,Ceara,CE,2,Moderado Risco
-180,181,1,Masculino,36,152.0,193,24,Santa Catarina,SC,2,Moderado Risco
-181,182,1,Masculino,27,104.0,114,18,Piaui,PI,1,Baixo Risco
-182,183,1,Masculino,53,159.0,202,26,Sergipe,SE,0,Alto Risco
-183,184,0,Feminino,18,191.0,222,8,Espirito Santo,ES,0,Alto Risco
-184,185,0,Feminino,33,142.0,168,21,Rio Grande do Sul,RS,2,Moderado Risco
-185,186,1,Masculino,60,123.0,146,14,Para,PA,1,Baixo Risco
-186,187,0,Feminino,20,135.0,170,10,Maranhao,MA,2,Moderado Risco
-187,188,1,Masculino,31,132.0,165,19,Rio de Janeiro,RJ,2,Moderado Risco
-188,189,0,Feminino,42,158.0,196,15,Paraiba,PB,2,Moderado Risco
-189,190,0,Feminino,66,181.0,224,20,Rio Grande do Norte,RN,0,Alto Risco
-190,191,1,Masculino,29,105.0,108,5,Bahia,BA,1,Baixo Risco
-191,192,0,Feminino,53,126.0,149,13,Minas Gerais,MG,1,Baixo Risco
-192,193,0,Feminino,62,186.0,224,5,Bahia,BA,0,Alto Risco
-193,194,0,Feminino,35,116.0,136,21,Rio Grande do Sul,RS,1,Baixo Risco
-194,195,0,Feminino,24,124.0,152,3,Amapa,AP,2,Moderado Risco
-195,196,0,Feminino,48,122.0,143,15,Paraiba,PB,1,Baixo Risco
-196,197,1,Masculino,32,115.0,135,23,Roraima,RR,1,Baixo Risco
-197,198,1,Masculino,28,173.0,211,11,Mato Grosso,MT,0,Alto Risco
-198,199,1,Masculino,70,128.0,156,10,Maranhao,MA,2,Moderado Risco
-199,200,1,Masculino,62,103.0,115,16,Parana,PR,1,Baixo Risco
-200,201,1,Masculino,67,120.0,143,4,Amazonas,AM,1,Baixo Risco
-201,202,1,Masculino,31,146.0,179,23,Roraima,RR,2,Moderado Risco
-202,203,0,Feminino,16,145.0,173,1,Acre,AC,2,Moderado Risco
-203,204,0,Feminino,21,125.0,148,23,Roraima,RR,1,Baixo Risco
-204,205,0,Feminino,50,109.0,127,7,Distrito Federal,DF,1,Baixo Risco
-205,206,0,Feminino,53,156.0,194,3,Amapa,AP,2,Moderado Risco
-206,207,0,Feminino,54,187.0,225,20,Rio Grande do Norte,RN,0,Alto Risco
-207,208,1,Masculino,35,110.0,127,9,Goias,GO,1,Baixo Risco
-208,209,1,Masculino,60,100.0,106,14,Para,PA,1,Baixo Risco
-209,210,0,Feminino,41,97.0,112,6,Ceara,CE,1,Baixo Risco
-210,211,1,Masculino,17,133.0,164,8,Espirito Santo,ES,2,Moderado Risco
-211,212,1,Masculino,50,128.0,151,14,Para,PA,2,Moderado Risco
-212,213,0,Feminino,36,154.0,191,15,Paraiba,PB,2,Moderado Risco
-213,214,0,Feminino,67,100.0,110,6,Ceara,CE,1,Baixo Risco
-214,215,1,Masculino,67,104.0,116,9,Goias,GO,1,Baixo Risco
-215,216,1,Masculino,52,149.0,180,13,Minas Gerais,MG,2,Moderado Risco
-216,217,0,Feminino,62,203.0,235,12,Mato Grosso do Sul,MS,0,Alto Risco
-217,218,0,Feminino,43,104.0,108,21,Rio Grande do Sul,RS,1,Baixo Risco
-218,219,0,Feminino,50,119.0,141,19,Rio de Janeiro,RJ,1,Baixo Risco
-219,220,1,Masculino,32,181.0,219,25,Sao Paulo,SP,0,Alto Risco
-220,221,1,Masculino,33,180.0,219,20,Rio Grande do Norte,RN,0,Alto Risco
-221,222,0,Feminino,38,116.0,138,15,Paraiba,PB,1,Baixo Risco
-222,223,0,Feminino,24,144.0,169,18,Piaui,PI,2,Moderado Risco
-223,224,1,Masculino,31,102.0,116,6,Ceara,CE,1,Baixo Risco
-224,225,1,Masculino,57,176.0,212,7,Distrito Federal,DF,0,Alto Risco
+,Unnamed: 0,id_cliente,altura,peso,colesterol,genero,id_estado,estado,sigla_estado,pais,idade,id_genero,imc,class_imc,class_colest,clusters,nome_cluster
+0,0,1,1.87,102,190,Masculino,23,Roraima,RR,Brasil,17,1,29.17,Sobrepeso,Moderado,0,Alto Risco
+1,1,2,1.82,96,170,Masculino,7,Distrito Federal,DF,Brasil,28,1,28.98,Sobrepeso,Moderado,0,Alto Risco
+2,2,3,1.9,115,216,Masculino,4,Amazonas,AM,Brasil,62,1,31.86,Obesidade Grau 1,Alto,2,Moderado Risco
+3,3,4,1.9,78,146,Feminino,24,Santa Catarina,SC,Brasil,55,0,21.61,Normal Peso,Moderado,1,Baixo Risco
+4,4,5,1.71,130,243,Masculino,26,Sergipe,SE,Brasil,44,1,44.46,Obesidade Grau 3,Muito Alto,2,Moderado Risco
+5,5,6,1.84,121,234,Masculino,8,Espirito Santo,ES,Brasil,17,1,35.74,Obesidade Grau 2,Alto,2,Moderado Risco
+6,6,7,1.76,79,201,Masculino,26,Sergipe,SE,Brasil,30,1,25.5,Sobrepeso,Alto,2,Moderado Risco
+7,7,8,1.83,91,206,Feminino,25,Sao Paulo,SP,Brasil,30,0,27.17,Sobrepeso,Alto,2,Moderado Risco
+8,8,9,1.76,112,223,Feminino,16,Parana,PR,Brasil,34,0,36.16,Obesidade Grau 2,Alto,2,Moderado Risco
+9,9,10,1.82,134,221,Masculino,6,Ceara,CE,Brasil,55,1,40.45,Obesidade Grau 3,Alto,2,Moderado Risco
+10,10,11,1.78,59,116,Feminino,3,Amapa,AP,Brasil,50,0,18.62,Normal Peso,Moderado,1,Baixo Risco
+11,11,12,1.71,120,222,Masculino,6,Ceara,CE,Brasil,62,1,41.04,Obesidade Grau 3,Alto,2,Moderado Risco
+12,12,13,1.64,69,145,Feminino,17,Pernambuco,PE,Brasil,52,0,25.65,Sobrepeso,Moderado,1,Baixo Risco
+13,13,14,1.54,94,210,Feminino,7,Distrito Federal,DF,Brasil,34,0,39.64,Obesidade Grau 2,Alto,2,Moderado Risco
+14,14,15,1.76,76,152,Feminino,25,Sao Paulo,SP,Brasil,69,0,24.54,Normal Peso,Moderado,0,Alto Risco
+15,15,16,1.7,102,213,Feminino,14,Para,PA,Brasil,65,0,35.29,Obesidade Grau 2,Alto,2,Moderado Risco
+16,16,17,1.73,64,125,Feminino,3,Amapa,AP,Brasil,61,0,21.38,Normal Peso,Moderado,1,Baixo Risco
+17,17,18,1.89,138,254,Masculino,27,Tocantins,TO,Brasil,65,1,38.63,Obesidade Grau 2,Muito Alto,2,Moderado Risco
+18,18,19,1.8,101,189,Feminino,17,Pernambuco,PE,Brasil,48,0,31.17,Obesidade Grau 1,Moderado,0,Alto Risco
+19,19,20,1.76,91,187,Feminino,5,Bahia,BA,Brasil,60,0,29.38,Sobrepeso,Moderado,0,Alto Risco
+20,21,22,1.68,60,122,Feminino,15,Paraiba,PB,Brasil,28,0,21.26,Normal Peso,Moderado,1,Baixo Risco
+21,22,23,1.87,120,228,Masculino,2,Alagoas,AL,Brasil,63,1,34.32,Obesidade Grau 1,Alto,2,Moderado Risco
+22,23,24,1.64,72,168,Feminino,11,Mato Grosso,MT,Brasil,34,0,26.77,Sobrepeso,Moderado,0,Alto Risco
+23,24,25,1.68,72,102,Masculino,3,Amapa,AP,Brasil,53,1,25.51,Sobrepeso,Moderado,1,Baixo Risco
+24,25,26,1.62,101,218,Feminino,10,Maranhao,MA,Brasil,42,0,38.48,Obesidade Grau 2,Alto,2,Moderado Risco
+25,26,27,1.77,70,123,Feminino,21,Rio Grande do Sul,RS,Brasil,35,0,22.34,Normal Peso,Moderado,1,Baixo Risco
+26,27,28,1.64,91,222,Feminino,20,Rio Grande do Norte,RN,Brasil,55,0,33.83,Obesidade Grau 1,Alto,2,Moderado Risco
+27,28,29,1.76,121,208,Masculino,14,Para,PA,Brasil,55,1,39.06,Obesidade Grau 2,Alto,2,Moderado Risco
+28,29,30,1.72,132,256,Masculino,13,Minas Gerais,MG,Brasil,62,1,44.62,Obesidade Grau 3,Muito Alto,2,Moderado Risco
+29,30,31,1.75,98,204,Masculino,8,Espirito Santo,ES,Brasil,24,1,32.0,Obesidade Grau 1,Alto,2,Moderado Risco
+30,31,32,1.6,75,167,Masculino,3,Amapa,AP,Brasil,29,1,29.3,Sobrepeso,Moderado,0,Alto Risco
+31,32,33,1.7924107142857142,101,188,Masculino,22,Rondonia,RO,Brasil,56,1,31.44,Obesidade Grau 1,Moderado,0,Alto Risco
+32,33,34,1.89,93,126,Masculino,18,Piaui,PI,Brasil,54,1,26.04,Sobrepeso,Moderado,1,Baixo Risco
+33,34,35,1.66,82,213,Feminino,6,Ceara,CE,Brasil,60,0,29.76,Sobrepeso,Alto,2,Moderado Risco
+34,35,36,1.87,92,122,Masculino,20,Rio Grande do Norte,RN,Brasil,67,1,26.31,Sobrepeso,Moderado,1,Baixo Risco
+35,36,37,1.82,110,225,Masculino,17,Pernambuco,PE,Brasil,16,1,33.21,Obesidade Grau 1,Alto,2,Moderado Risco
+36,37,38,1.9,96,105,Masculino,1,Acre,AC,Brasil,42,1,26.59,Sobrepeso,Moderado,1,Baixo Risco
+37,38,39,1.52,63,155,Feminino,10,Maranhao,MA,Brasil,33,0,27.27,Sobrepeso,Moderado,0,Alto Risco
+38,39,40,1.76,116,219,Masculino,17,Pernambuco,PE,Brasil,60,1,37.45,Obesidade Grau 2,Alto,2,Moderado Risco
+39,40,41,1.82,103,190,Masculino,14,Para,PA,Brasil,60,1,31.1,Obesidade Grau 1,Moderado,0,Alto Risco
+40,41,42,1.7924107142857142,101,177,Masculino,20,Rio Grande do Norte,RN,Brasil,54,1,31.44,Obesidade Grau 1,Moderado,0,Alto Risco
+41,42,43,1.79,79,139,Masculino,4,Amazonas,AM,Brasil,55,1,24.66,Normal Peso,Moderado,1,Baixo Risco
+42,43,44,1.56,81,224,Feminino,27,Tocantins,TO,Brasil,36,0,33.28,Obesidade Grau 1,Alto,2,Moderado Risco
+43,44,45,1.62,93,207,Masculino,18,Piaui,PI,Brasil,22,1,35.44,Obesidade Grau 2,Alto,2,Moderado Risco
+44,45,46,1.86,68,96,Feminino,26,Sergipe,SE,Brasil,65,0,19.66,Normal Peso,Moderado,1,Baixo Risco
+45,46,47,1.89,110,218,Masculino,7,Distrito Federal,DF,Brasil,68,1,30.79,Obesidade Grau 1,Alto,2,Moderado Risco
+46,47,48,1.63,63,164,Feminino,9,Goias,GO,Brasil,38,0,23.71,Normal Peso,Moderado,0,Alto Risco
+47,49,50,1.69,61,118,Feminino,4,Amazonas,AM,Brasil,70,0,21.36,Normal Peso,Moderado,1,Baixo Risco
+48,50,51,1.697962962962963,76,138,Feminino,26,Sergipe,SE,Brasil,23,0,26.36,Sobrepeso,Moderado,1,Baixo Risco
+49,51,52,1.6,76,199,Masculino,22,Rondonia,RO,Brasil,34,1,29.69,Sobrepeso,Moderado,2,Moderado Risco
+50,52,53,1.81,110,219,Masculino,15,Paraiba,PB,Brasil,30,1,33.58,Obesidade Grau 1,Alto,2,Moderado Risco
+51,53,54,1.82,101,183,Masculino,23,Roraima,RR,Brasil,48,1,30.49,Obesidade Grau 1,Moderado,0,Alto Risco
+52,54,55,1.5,51,128,Feminino,9,Goias,GO,Brasil,36,0,22.67,Normal Peso,Moderado,1,Baixo Risco
+53,55,56,1.7,79,197,Feminino,4,Amazonas,AM,Brasil,25,0,27.34,Sobrepeso,Moderado,2,Moderado Risco
+54,56,57,1.72,61,154,Feminino,7,Distrito Federal,DF,Brasil,65,0,20.62,Normal Peso,Moderado,0,Alto Risco
+55,57,58,1.62,89,208,Feminino,7,Distrito Federal,DF,Brasil,39,0,33.91,Obesidade Grau 1,Alto,2,Moderado Risco
+56,58,59,1.75,124,235,Masculino,8,Espirito Santo,ES,Brasil,58,1,40.49,Obesidade Grau 3,Alto,2,Moderado Risco
+57,59,60,1.62,54,175,Masculino,22,Rondonia,RO,Brasil,38,1,20.58,Normal Peso,Moderado,0,Alto Risco
+58,60,61,1.75,58,129,Feminino,23,Roraima,RR,Brasil,70,0,18.94,Normal Peso,Moderado,1,Baixo Risco
+59,61,62,1.64,64,185,Feminino,8,Espirito Santo,ES,Brasil,47,0,23.8,Normal Peso,Moderado,0,Alto Risco
+60,62,63,1.92,100,107,Masculino,16,Parana,PR,Brasil,57,1,27.13,Sobrepeso,Moderado,1,Baixo Risco
+61,63,64,1.78,110,211,Masculino,12,Mato Grosso do Sul,MS,Brasil,58,1,34.72,Obesidade Grau 1,Alto,2,Moderado Risco
+62,64,65,1.67,78,167,Feminino,6,Ceara,CE,Brasil,30,0,27.97,Sobrepeso,Moderado,0,Alto Risco
+63,65,66,1.6,76,185,Masculino,21,Rio Grande do Sul,RS,Brasil,25,1,29.69,Sobrepeso,Moderado,0,Alto Risco
+64,66,67,1.89,101,110,Masculino,24,Santa Catarina,SC,Brasil,30,1,28.27,Sobrepeso,Moderado,1,Baixo Risco
+65,67,68,1.62,79,194,Masculino,19,Rio de Janeiro,RJ,Brasil,48,1,30.1,Obesidade Grau 1,Moderado,2,Moderado Risco
+66,68,69,1.71,94,221,Feminino,21,Rio Grande do Sul,RS,Brasil,35,0,32.15,Obesidade Grau 1,Alto,2,Moderado Risco
+67,69,70,1.73,80,166,Feminino,11,Mato Grosso,MT,Brasil,49,0,26.73,Sobrepeso,Moderado,0,Alto Risco
+68,70,71,1.89,121,143,Masculino,26,Sergipe,SE,Brasil,28,1,33.87,Obesidade Grau 1,Moderado,1,Baixo Risco
+69,71,72,1.58,82,163,Feminino,9,Goias,GO,Brasil,42,0,32.85,Obesidade Grau 1,Moderado,0,Alto Risco
+70,72,73,1.86,107,158,Masculino,2,Alagoas,AL,Brasil,50,1,30.93,Obesidade Grau 1,Moderado,0,Alto Risco
+71,73,74,1.53,62,191,Feminino,19,Rio de Janeiro,RJ,Brasil,24,0,26.49,Sobrepeso,Moderado,0,Alto Risco
+72,74,75,1.78,97,216,Feminino,10,Maranhao,MA,Brasil,31,0,30.61,Obesidade Grau 1,Alto,2,Moderado Risco
+73,75,76,1.81,85,106,Masculino,15,Paraiba,PB,Brasil,43,1,25.95,Sobrepeso,Moderado,1,Baixo Risco
+74,76,77,1.64,89,146,Feminino,17,Pernambuco,PE,Brasil,39,0,33.09,Obesidade Grau 1,Moderado,1,Baixo Risco
+75,77,78,1.59,87,220,Feminino,13,Minas Gerais,MG,Brasil,34,0,34.41,Obesidade Grau 1,Alto,2,Moderado Risco
+76,78,79,1.68,56,131,Feminino,11,Mato Grosso,MT,Brasil,48,0,19.84,Normal Peso,Moderado,1,Baixo Risco
+77,79,80,1.62,64,147,Feminino,27,Tocantins,TO,Brasil,61,0,24.39,Normal Peso,Moderado,1,Baixo Risco
+78,80,81,1.78,69,141,Feminino,4,Amazonas,AM,Brasil,18,0,21.78,Normal Peso,Moderado,1,Baixo Risco
+79,81,82,1.97,113,160,Masculino,7,Distrito Federal,DF,Brasil,58,1,29.12,Sobrepeso,Moderado,0,Alto Risco
+80,82,83,1.78,112,204,Masculino,14,Para,PA,Brasil,46,1,35.35,Obesidade Grau 2,Alto,2,Moderado Risco
+81,83,84,1.97,126,152,Masculino,26,Sergipe,SE,Brasil,18,1,32.47,Obesidade Grau 1,Moderado,0,Alto Risco
+82,84,85,1.76,84,111,Masculino,22,Rondonia,RO,Brasil,52,1,27.12,Sobrepeso,Moderado,1,Baixo Risco
+83,85,86,1.6,65,139,Masculino,22,Rondonia,RO,Brasil,66,1,25.39,Sobrepeso,Moderado,1,Baixo Risco
+84,86,87,1.57,63,172,Masculino,5,Bahia,BA,Brasil,43,1,25.56,Sobrepeso,Moderado,0,Alto Risco
+85,87,88,1.69,63,168,Feminino,12,Mato Grosso do Sul,MS,Brasil,25,0,22.06,Normal Peso,Moderado,0,Alto Risco
+86,88,89,1.74,72,148,Feminino,27,Tocantins,TO,Brasil,35,0,23.78,Normal Peso,Moderado,0,Alto Risco
+87,89,90,1.86,76,123,Feminino,19,Rio de Janeiro,RJ,Brasil,29,0,21.97,Normal Peso,Moderado,1,Baixo Risco
+88,90,91,1.91,96,189,Feminino,22,Rondonia,RO,Brasil,47,0,26.32,Sobrepeso,Moderado,0,Alto Risco
+89,91,92,1.79,97,220,Feminino,5,Bahia,BA,Brasil,30,0,30.27,Obesidade Grau 1,Alto,2,Moderado Risco
+90,92,93,1.81,93,120,Masculino,22,Rondonia,RO,Brasil,19,1,28.39,Sobrepeso,Moderado,1,Baixo Risco
+91,93,94,1.76,97,106,Masculino,13,Minas Gerais,MG,Brasil,67,1,31.31,Obesidade Grau 1,Moderado,1,Baixo Risco
+92,94,95,1.62,61,105,Feminino,8,Espirito Santo,ES,Brasil,22,0,23.24,Normal Peso,Moderado,1,Baixo Risco
+93,95,96,1.82,129,157,Masculino,14,Para,PA,Brasil,56,1,38.94,Obesidade Grau 2,Moderado,0,Alto Risco
+94,96,97,1.75,94,149,Masculino,10,Maranhao,MA,Brasil,28,1,30.69,Obesidade Grau 1,Moderado,0,Alto Risco
+95,97,98,1.84,80,185,Feminino,1,Acre,AC,Brasil,25,0,23.63,Normal Peso,Moderado,0,Alto Risco
+96,98,99,1.76,62,106,Feminino,12,Mato Grosso do Sul,MS,Brasil,47,0,20.02,Normal Peso,Moderado,1,Baixo Risco
+97,99,100,1.84,91,115,Masculino,6,Ceara,CE,Brasil,20,1,26.88,Sobrepeso,Moderado,1,Baixo Risco
+98,100,101,1.78,107,197,Masculino,21,Rio Grande do Sul,RS,Brasil,49,1,33.77,Obesidade Grau 1,Moderado,2,Moderado Risco
+99,101,102,1.76,91,230,Feminino,24,Santa Catarina,SC,Brasil,33,0,29.38,Sobrepeso,Alto,2,Moderado Risco
+100,102,103,1.62,59,108,Feminino,18,Piaui,PI,Brasil,29,0,22.48,Normal Peso,Moderado,1,Baixo Risco
+101,103,104,1.75,90,170,Feminino,1,Acre,AC,Brasil,38,0,29.39,Sobrepeso,Moderado,0,Alto Risco
+102,104,105,1.97,119,214,Masculino,18,Piaui,PI,Brasil,21,1,30.66,Obesidade Grau 1,Alto,2,Moderado Risco
+103,105,106,1.84,113,216,Masculino,21,Rio Grande do Sul,RS,Brasil,56,1,33.38,Obesidade Grau 1,Alto,2,Moderado Risco
+104,106,107,1.54,56,130,Feminino,4,Amazonas,AM,Brasil,50,0,23.61,Normal Peso,Moderado,1,Baixo Risco
+105,107,108,1.65,61,169,Feminino,17,Pernambuco,PE,Brasil,65,0,22.41,Normal Peso,Moderado,0,Alto Risco
+106,108,109,1.94,74,110,Masculino,4,Amazonas,AM,Brasil,48,1,19.66,Normal Peso,Moderado,1,Baixo Risco
+107,109,110,1.84,109,209,Masculino,2,Alagoas,AL,Brasil,63,1,32.2,Obesidade Grau 1,Alto,2,Moderado Risco
+108,110,111,1.77,131,162,Masculino,22,Rondonia,RO,Brasil,23,1,41.81,Obesidade Grau 3,Moderado,0,Alto Risco
+109,111,112,1.77,116,214,Masculino,11,Mato Grosso,MT,Brasil,66,1,37.03,Obesidade Grau 2,Alto,2,Moderado Risco
+110,112,113,1.88,73,145,Masculino,1,Acre,AC,Brasil,39,1,20.65,Normal Peso,Moderado,1,Baixo Risco
+111,113,114,1.96,105,116,Masculino,4,Amazonas,AM,Brasil,44,1,27.33,Sobrepeso,Moderado,1,Baixo Risco
+112,114,115,1.61,94,209,Feminino,6,Ceara,CE,Brasil,21,0,36.26,Obesidade Grau 2,Alto,2,Moderado Risco
+113,115,116,1.84,82,116,Masculino,10,Maranhao,MA,Brasil,22,1,24.22,Normal Peso,Moderado,1,Baixo Risco
+114,116,117,1.72,72,139,Masculino,5,Bahia,BA,Brasil,44,1,24.34,Normal Peso,Moderado,1,Baixo Risco
+115,117,118,1.82,118,180,Masculino,18,Piaui,PI,Brasil,48,1,35.62,Obesidade Grau 2,Moderado,0,Alto Risco
+116,118,119,1.72,89,168,Feminino,9,Goias,GO,Brasil,32,0,30.08,Obesidade Grau 1,Moderado,0,Alto Risco
+117,119,120,1.77,134,158,Masculino,19,Rio de Janeiro,RJ,Brasil,32,1,42.77,Obesidade Grau 3,Moderado,0,Alto Risco
+118,120,121,1.82,111,232,Masculino,4,Amazonas,AM,Brasil,60,1,33.51,Obesidade Grau 1,Alto,2,Moderado Risco
+119,121,122,1.84,83,136,Masculino,10,Maranhao,MA,Brasil,36,1,24.52,Normal Peso,Moderado,1,Baixo Risco
+120,122,123,1.82,104,196,Feminino,16,Parana,PR,Brasil,47,0,31.4,Obesidade Grau 1,Moderado,2,Moderado Risco
+121,123,124,1.64,92,228,Feminino,7,Distrito Federal,DF,Brasil,28,0,34.21,Obesidade Grau 1,Alto,2,Moderado Risco
+122,124,125,1.69,118,222,Masculino,10,Maranhao,MA,Brasil,50,1,41.32,Obesidade Grau 3,Alto,2,Moderado Risco
+123,125,126,1.66,62,117,Feminino,12,Mato Grosso do Sul,MS,Brasil,30,0,22.5,Normal Peso,Moderado,1,Baixo Risco
+124,126,127,1.63,113,224,Masculino,2,Alagoas,AL,Brasil,46,1,42.53,Obesidade Grau 3,Alto,2,Moderado Risco
+125,127,128,1.85,82,104,Feminino,20,Rio Grande do Norte,RN,Brasil,21,0,23.96,Normal Peso,Moderado,1,Baixo Risco
+126,128,129,1.69,73,195,Feminino,18,Piaui,PI,Brasil,35,0,25.56,Sobrepeso,Moderado,2,Moderado Risco
+127,129,130,1.71,86,156,Feminino,3,Amapa,AP,Brasil,37,0,29.41,Sobrepeso,Moderado,0,Alto Risco
+128,130,131,1.69,92,213,Feminino,7,Distrito Federal,DF,Brasil,21,0,32.21,Obesidade Grau 1,Alto,2,Moderado Risco
+129,131,132,1.76,66,133,Feminino,9,Goias,GO,Brasil,26,0,21.31,Normal Peso,Moderado,1,Baixo Risco
+130,132,133,1.69,99,208,Masculino,7,Distrito Federal,DF,Brasil,69,1,34.66,Obesidade Grau 1,Alto,2,Moderado Risco
+131,133,134,1.81,97,195,Feminino,27,Tocantins,TO,Brasil,52,0,29.61,Sobrepeso,Moderado,2,Moderado Risco
+132,134,135,1.79,61,163,Feminino,16,Parana,PR,Brasil,53,0,19.04,Normal Peso,Moderado,0,Alto Risco
+133,135,136,1.62,76,195,Feminino,25,Sao Paulo,SP,Brasil,59,0,28.96,Sobrepeso,Moderado,2,Moderado Risco
+134,136,137,1.6,72,124,Feminino,19,Rio de Janeiro,RJ,Brasil,24,0,28.12,Sobrepeso,Moderado,1,Baixo Risco
+135,137,138,1.76,106,231,Masculino,6,Ceara,CE,Brasil,39,1,34.22,Obesidade Grau 1,Alto,2,Moderado Risco
+136,138,139,1.58,63,172,Feminino,6,Ceara,CE,Brasil,35,0,25.24,Sobrepeso,Moderado,0,Alto Risco
+137,139,140,1.79,81,104,Masculino,12,Mato Grosso do Sul,MS,Brasil,57,1,25.28,Sobrepeso,Moderado,1,Baixo Risco
+138,140,141,1.73,91,221,Feminino,14,Para,PA,Brasil,48,0,30.41,Obesidade Grau 1,Alto,2,Moderado Risco
+139,141,142,1.54,61,128,Feminino,22,Rondonia,RO,Brasil,62,0,25.72,Sobrepeso,Moderado,1,Baixo Risco
+140,142,143,1.6,84,222,Feminino,8,Espirito Santo,ES,Brasil,48,0,32.81,Obesidade Grau 1,Alto,2,Moderado Risco
+141,143,144,1.82,135,214,Masculino,2,Alagoas,AL,Brasil,53,1,40.76,Obesidade Grau 3,Alto,2,Moderado Risco
+142,144,145,1.71,94,184,Masculino,17,Pernambuco,PE,Brasil,63,1,32.15,Obesidade Grau 1,Moderado,0,Alto Risco
+143,145,146,1.69,91,204,Masculino,24,Santa Catarina,SC,Brasil,49,1,31.86,Obesidade Grau 1,Alto,2,Moderado Risco
+144,146,147,1.76,108,171,Masculino,23,Roraima,RR,Brasil,40,1,34.87,Obesidade Grau 1,Moderado,0,Alto Risco
+145,147,148,1.69,84,195,Masculino,13,Minas Gerais,MG,Brasil,28,1,29.41,Sobrepeso,Moderado,2,Moderado Risco
+146,148,149,1.82,94,132,Masculino,20,Rio Grande do Norte,RN,Brasil,45,1,28.38,Sobrepeso,Moderado,1,Baixo Risco
+147,149,150,1.64,99,214,Feminino,25,Sao Paulo,SP,Brasil,39,0,36.81,Obesidade Grau 2,Alto,2,Moderado Risco
+148,150,151,1.98,111,123,Masculino,2,Alagoas,AL,Brasil,52,1,28.31,Sobrepeso,Moderado,1,Baixo Risco
+149,151,152,1.7,98,233,Masculino,27,Tocantins,TO,Brasil,55,1,33.91,Obesidade Grau 1,Alto,2,Moderado Risco
+150,152,153,1.72,63,107,Masculino,26,Sergipe,SE,Brasil,29,1,21.3,Normal Peso,Moderado,1,Baixo Risco
+151,153,154,1.57,53,162,Feminino,23,Roraima,RR,Brasil,26,0,21.5,Normal Peso,Moderado,0,Alto Risco
+152,154,155,1.72,96,204,Masculino,11,Mato Grosso,MT,Brasil,16,1,32.45,Obesidade Grau 1,Alto,2,Moderado Risco
+153,155,156,1.83,121,227,Masculino,17,Pernambuco,PE,Brasil,41,1,36.13,Obesidade Grau 2,Alto,2,Moderado Risco
+154,156,157,1.79,91,185,Masculino,24,Santa Catarina,SC,Brasil,69,1,28.4,Sobrepeso,Moderado,0,Alto Risco
+155,157,158,1.83,68,142,Masculino,3,Amapa,AP,Brasil,55,1,20.31,Normal Peso,Moderado,1,Baixo Risco
+156,158,159,1.61,90,225,Feminino,19,Rio de Janeiro,RJ,Brasil,58,0,34.72,Obesidade Grau 1,Alto,2,Moderado Risco
+157,159,160,1.84,121,212,Masculino,11,Mato Grosso,MT,Brasil,23,1,35.74,Obesidade Grau 2,Alto,2,Moderado Risco
+158,160,161,1.68,84,161,Feminino,18,Piaui,PI,Brasil,16,0,29.76,Sobrepeso,Moderado,0,Alto Risco
+159,161,162,1.77,126,220,Masculino,4,Amazonas,AM,Brasil,24,1,40.22,Obesidade Grau 3,Alto,2,Moderado Risco
+160,162,163,1.69,53,168,Feminino,24,Santa Catarina,SC,Brasil,45,0,18.56,Normal Peso,Moderado,0,Alto Risco
+161,163,164,1.62,62,155,Feminino,23,Roraima,RR,Brasil,51,0,23.62,Normal Peso,Moderado,0,Alto Risco
+162,164,165,1.86,60,125,Feminino,18,Piaui,PI,Brasil,70,0,17.34,Baixo Peso,Moderado,1,Baixo Risco
+163,165,166,1.7,73,144,Feminino,15,Paraiba,PB,Brasil,29,0,25.26,Sobrepeso,Moderado,1,Baixo Risco
+164,166,167,1.73,127,201,Masculino,13,Minas Gerais,MG,Brasil,66,1,42.43,Obesidade Grau 3,Alto,2,Moderado Risco
+165,167,168,1.9,114,222,Masculino,11,Mato Grosso,MT,Brasil,34,1,31.58,Obesidade Grau 1,Alto,2,Moderado Risco
+166,168,169,1.74,120,189,Masculino,17,Pernambuco,PE,Brasil,53,1,39.64,Obesidade Grau 2,Moderado,0,Alto Risco
+167,169,170,1.61,67,132,Feminino,8,Espirito Santo,ES,Brasil,22,0,25.85,Sobrepeso,Moderado,1,Baixo Risco
+168,170,171,1.72,102,204,Feminino,13,Minas Gerais,MG,Brasil,55,0,34.48,Obesidade Grau 1,Alto,2,Moderado Risco
+169,171,172,1.69,94,201,Feminino,11,Mato Grosso,MT,Brasil,61,0,32.91,Obesidade Grau 1,Alto,2,Moderado Risco
+170,172,173,1.78,101,211,Feminino,19,Rio de Janeiro,RJ,Brasil,57,0,31.88,Obesidade Grau 1,Alto,2,Moderado Risco
+171,173,174,1.73,69,156,Masculino,12,Mato Grosso do Sul,MS,Brasil,28,1,23.05,Normal Peso,Moderado,0,Alto Risco
+172,174,175,1.9,112,179,Masculino,21,Rio Grande do Sul,RS,Brasil,55,1,31.02,Obesidade Grau 1,Moderado,0,Alto Risco
+173,175,176,1.69,70,129,Feminino,22,Rondonia,RO,Brasil,20,0,24.51,Normal Peso,Moderado,1,Baixo Risco
+174,176,177,1.83,54,185,Feminino,22,Rondonia,RO,Brasil,24,0,16.12,Baixo Peso,Moderado,0,Alto Risco
+175,177,178,1.6,93,199,Masculino,3,Amapa,AP,Brasil,40,1,36.33,Obesidade Grau 2,Moderado,2,Moderado Risco
+176,178,179,1.83,119,213,Masculino,3,Amapa,AP,Brasil,43,1,35.53,Obesidade Grau 2,Alto,2,Moderado Risco
+177,179,180,1.55,71,172,Feminino,6,Ceara,CE,Brasil,33,0,29.55,Sobrepeso,Moderado,0,Alto Risco
+178,180,181,1.75,84,193,Masculino,24,Santa Catarina,SC,Brasil,36,1,27.43,Sobrepeso,Moderado,0,Alto Risco
+179,181,182,1.95,101,114,Masculino,18,Piaui,PI,Brasil,27,1,26.56,Sobrepeso,Moderado,1,Baixo Risco
+180,182,183,1.8,109,202,Masculino,26,Sergipe,SE,Brasil,53,1,33.64,Obesidade Grau 1,Alto,2,Moderado Risco
+181,183,184,1.68,94,222,Feminino,8,Espirito Santo,ES,Brasil,18,0,33.3,Obesidade Grau 1,Alto,2,Moderado Risco
+182,184,185,1.65,62,168,Feminino,21,Rio Grande do Sul,RS,Brasil,33,0,22.77,Normal Peso,Moderado,0,Alto Risco
+183,185,186,1.8,123,164,Masculino,14,Para,PA,Brasil,60,1,37.96,Obesidade Grau 2,Moderado,0,Alto Risco
+184,186,187,1.83,90,151,Feminino,10,Maranhao,MA,Brasil,20,0,26.87,Sobrepeso,Moderado,0,Alto Risco
+185,187,188,1.86,83,165,Masculino,19,Rio de Janeiro,RJ,Brasil,31,1,23.99,Normal Peso,Moderado,0,Alto Risco
+186,188,189,1.88,96,196,Feminino,15,Paraiba,PB,Brasil,42,0,27.16,Sobrepeso,Moderado,2,Moderado Risco
+187,189,190,1.56,84,224,Feminino,20,Rio Grande do Norte,RN,Brasil,66,0,34.52,Obesidade Grau 1,Alto,2,Moderado Risco
+188,190,191,1.84,105,169,Masculino,5,Bahia,BA,Brasil,29,1,31.01,Obesidade Grau 1,Moderado,0,Alto Risco
+189,191,192,1.79,80,149,Feminino,13,Minas Gerais,MG,Brasil,53,0,24.97,Normal Peso,Moderado,0,Alto Risco
+190,192,193,1.82,112,224,Feminino,5,Bahia,BA,Brasil,62,0,33.81,Obesidade Grau 1,Alto,2,Moderado Risco
+191,193,194,1.58,72,136,Feminino,21,Rio Grande do Sul,RS,Brasil,35,0,28.84,Sobrepeso,Moderado,1,Baixo Risco
+192,194,195,1.88,88,152,Feminino,3,Amapa,AP,Brasil,24,0,24.9,Normal Peso,Moderado,0,Alto Risco
+193,195,196,1.65,71,143,Feminino,15,Paraiba,PB,Brasil,48,0,26.08,Sobrepeso,Moderado,1,Baixo Risco
+194,196,197,1.83,83,135,Masculino,23,Roraima,RR,Brasil,32,1,24.78,Normal Peso,Moderado,1,Baixo Risco
+195,197,198,1.84,122,211,Masculino,11,Mato Grosso,MT,Brasil,28,1,36.03,Obesidade Grau 2,Alto,2,Moderado Risco
+196,198,199,1.74,81,156,Masculino,10,Maranhao,MA,Brasil,70,1,26.75,Sobrepeso,Moderado,0,Alto Risco
+197,199,200,1.72,81,115,Masculino,16,Parana,PR,Brasil,62,1,27.38,Sobrepeso,Moderado,1,Baixo Risco
+198,200,201,1.84,120,184,Masculino,4,Amazonas,AM,Brasil,67,1,35.44,Obesidade Grau 2,Moderado,0,Alto Risco
+199,201,202,1.79,92,179,Masculino,23,Roraima,RR,Brasil,31,1,28.71,Sobrepeso,Moderado,0,Alto Risco
+200,202,203,1.75,61,173,Feminino,1,Acre,AC,Brasil,16,0,19.92,Normal Peso,Moderado,0,Alto Risco
+201,203,204,1.56,69,148,Feminino,23,Roraima,RR,Brasil,21,0,28.35,Sobrepeso,Moderado,0,Alto Risco
+202,204,205,1.75,53,127,Feminino,7,Distrito Federal,DF,Brasil,50,0,17.31,Baixo Peso,Moderado,1,Baixo Risco
+203,205,206,1.76,52,174,Feminino,3,Amapa,AP,Brasil,53,0,16.79,Baixo Peso,Moderado,0,Alto Risco
+204,206,207,1.84,117,225,Feminino,20,Rio Grande do Norte,RN,Brasil,54,0,34.56,Obesidade Grau 1,Alto,2,Moderado Risco
+205,207,208,1.96,102,127,Masculino,9,Goias,GO,Brasil,35,1,26.55,Sobrepeso,Moderado,1,Baixo Risco
+206,208,209,1.73,80,106,Masculino,14,Para,PA,Brasil,60,1,26.73,Sobrepeso,Moderado,1,Baixo Risco
+207,209,210,1.72,50,112,Feminino,6,Ceara,CE,Brasil,41,0,16.9,Baixo Peso,Moderado,1,Baixo Risco
+208,210,211,1.72,93,164,Masculino,8,Espirito Santo,ES,Brasil,17,1,31.44,Obesidade Grau 1,Moderado,0,Alto Risco
+209,211,212,1.97,128,168,Masculino,14,Para,PA,Brasil,50,1,32.98,Obesidade Grau 1,Moderado,0,Alto Risco
+210,212,213,1.68,59,191,Feminino,15,Paraiba,PB,Brasil,36,0,20.9,Normal Peso,Moderado,0,Alto Risco
+211,213,214,1.69,57,110,Feminino,6,Ceara,CE,Brasil,67,0,19.96,Normal Peso,Moderado,1,Baixo Risco
+212,214,215,1.86,91,116,Masculino,9,Goias,GO,Brasil,67,1,26.3,Sobrepeso,Moderado,1,Baixo Risco
+213,215,216,1.71,90,180,Masculino,13,Minas Gerais,MG,Brasil,52,1,30.78,Obesidade Grau 1,Moderado,0,Alto Risco
+214,216,217,1.75,96,235,Feminino,12,Mato Grosso do Sul,MS,Brasil,62,0,31.35,Obesidade Grau 1,Alto,2,Moderado Risco
+215,217,218,1.64,71,108,Feminino,21,Rio Grande do Sul,RS,Brasil,43,0,26.4,Sobrepeso,Moderado,1,Baixo Risco
+216,218,219,1.71,83,141,Feminino,19,Rio de Janeiro,RJ,Brasil,50,0,28.38,Sobrepeso,Moderado,1,Baixo Risco
+217,219,220,1.86,119,231,Masculino,25,Sao Paulo,SP,Brasil,32,1,34.4,Obesidade Grau 1,Alto,2,Moderado Risco
+218,220,221,1.72,96,219,Masculino,20,Rio Grande do Norte,RN,Brasil,33,1,32.45,Obesidade Grau 1,Alto,2,Moderado Risco
+219,221,222,1.62,76,138,Feminino,15,Paraiba,PB,Brasil,38,0,28.96,Sobrepeso,Moderado,1,Baixo Risco
+220,222,223,1.69,65,169,Feminino,18,Piaui,PI,Brasil,24,0,22.76,Normal Peso,Moderado,0,Alto Risco
+221,223,224,1.91,102,116,Masculino,6,Ceara,CE,Brasil,31,1,27.96,Sobrepeso,Moderado,1,Baixo Risco
+222,224,225,1.67,98,212,Masculino,7,Distrito Federal,DF,Brasil,57,1,35.14,Obesidade Grau 2,Alto,2,Moderado Risco

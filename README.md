@@ -1,22 +1,25 @@
 # What is a patient's health level?
 
+![image](https://github.com/g3rley/saude-analytics/assets/96620547/08f163ba-427e-45cb-bf49-c8d10cfa1cec)
+
 ## Cenário
 
-Uma operadora de saúde tem recebido muitos clientes com problemas de sobrepeso e colesterol alto. A empresa quer realizar uma análise exploratória dos dados existentes dos clientes, a fim da possibilidade de algum cliente ter indicios à colesterol alto e realizar um pré tratamento e cuidados, cuidando da saúde do seu paciente e trazendo bem estar a este.
+Uma operadora de saúde enfrenta um desafio crescente com clientes com sobrepeso e colesterol alto. Para lidar com essa situação, a empresa busca realizar uma análise exploratória dos dados existentes dos clientes. O objetivo é identificar as principais causas e fatores de risco, a fim de desenvolver estratégias preventivas e de tratamento adequadas.
 
 ## Objetivo
 
-
-Com isso pretende-se neste projeto realizar uma análise exploratória dos dados da operadora de saúde, a fim de enetnder as causas do colesterol alto e realizar uma predição de situação do paciente à eventuais problemas de saúde.
+Neste repositório, realizaremos uma análise exploratória dos dados da operadora de saúde, com foco em problemas de sobrepeso e colesterol alto entre os clientes. Nosso objetivo é identificar as causas possíveis desses problemas e fornecer insights para tratamento e cuidados preventivos, visando melhorar a saúde dos pacientes e promover seu bem-estar. Através dessa análise, buscamos contribuir para a compreensão mais aprofundada dessas questões e proporcionar informações valiosas que possam orientar a tomada de decisões e ações para promover uma vida mais saudável.
 
 Além de responder as seguintes perguntas:
 
-- Quais as causas do colesterol alto no cliente? O peso interfere?
-- A idade influencia na probabilidade de um cliente ter problemas de saúde?
-- Quais clientes deveriam realizar um pré tratamento evitando problemas de saúde futuros?
-- Há alguma relação entre o IMC e o nível de colesterol?
+- Quais são as principais causas do colesterol alto nos clientes? O peso tem influência significativa?
+- A idade do cliente tem relação com a probabilidade de problemas de saúde?
+- Quais clientes devem receber tratamento prévio para evitar problemas de saúde futuros?
+- Existe alguma correlação entre o Índice de Massa Corporal (IMC) e os níveis de colesterol?
 
 ## Organização do projeto 
+
+O projeto está organizado da seguinte forma:
 
             What_is_a_patients_health_level
             ┣ data
@@ -37,3 +40,71 @@ Além de responder as seguintes perguntas:
             ┃
             ┣ Eda_Operadora_de_saude.ipynb
             ┗ README.md
+
+O diretório [data](data) contém os dados utilizados neste projeto. O arquivo [clientes_operadora_saude.xlsx](data/clientes_operadora_saude.xlsx) contém os dados dos clientes da operadora de saúde. O arquivo [estados_brasileiros.csv](data/estados_brasileiros.csv) contém os dados dos estados brasileiros. O arquivo [idade_clientes.csv](data/idade_clientes.csv) contém os dados da idade dos clientes.
+
+## Ferramentas utilizadas
+
+Para realizar a análise exploratória dos dados, foram utilizadas as seguintes ferramentas:
+
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
+## Análise exploratória dos dados
+
+A análise exploratória dos dados foi realizada no arquivo [Eda_Operadora_de_saude.ipynb](Eda_Operadora_de_saude.ipynb). Neste arquivo, foram realizadas as seguintes etapas:
+
+- Importação das bibliotecas
+- Importação dos dados
+- Análise exploratória dos dados
+- Tratamento dos dados
+- Análise exploratória dos dados tratados
+- Análise de correlação
+
+
+## Metodologia
+
+A metodologia utilizada neste projeto foi a CRISP-DM, que é uma metodologia de mineração de dados que descreve as etapas comuns encontradas por cientistas de dados ao lidar com problemas de mineração de dados. A metodologia consiste em seis etapas:
+
+- Entendimento do negócio
+- Entendimento dos dados
+- Preparação dos dados
+- Modelagem
+- Avaliação
+
+## Resultados
+
+Após a análise exploratória dos dados, foi possível identificar que o peso dos clientes tem influência significativa no nível de colesterol, sendo que os clientes com sobrepeso e obesidade possuem níveis de colesterol mais altos. Além disso, foi possível identificar que a idade do cliente também tem relação com o nível de colesterol, sendo que os clientes com mais de 40 anos possuem níveis de colesterol mais altos.
+
+Com isso, foi possível identificar que os clientes com sobrepeso e obesidade e com mais de 40 anos são os que possuem maior probabilidade de problemas de saúde futuros, sendo que estes clientes devem receber tratamento prévio para evitar problemas de saúde futuros.
+
+Além disso, foi possível identificar que existe uma correlação entre o Índice de Massa Corporal (IMC) e os níveis de colesterol, sendo que os clientes com sobrepeso e obesidade possuem níveis de colesterol mais altos.
+
+## Como executar o projeto
+
+Para executar o projeto, você deve ter o Python instalado em sua máquina. Além disso, você deve instalar as bibliotecas necessárias, que estão listadas no arquivo [requirements.txt](requirements.txt). Para instalar as bibliotecas, execute o seguinte comando no terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+Após instalar as bibliotecas, você deve executar o arquivo [Eda_Operadora_de_saude.ipynb](Eda_Operadora_de_saude.ipynb) no Jupyter Notebook.
+
+## Referências
+
+- [CRISP-DM](https://pt.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining)
+- [Pandas](https://pandas.pydata.org/)
+- [Numpy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [K-means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+- [Elbow Method](https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/)
+
+
+## LICENÇA
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
