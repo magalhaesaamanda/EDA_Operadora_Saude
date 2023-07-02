@@ -1,5 +1,7 @@
 # What is a patient's health level?
 
+![image](https://github.com/g3rley/saude-analytics/assets/96620547/08f163ba-427e-45cb-bf49-c8d10cfa1cec)
+
 ## Cenário
 
 Uma operadora de saúde enfrenta um desafio crescente com clientes com sobrepeso e colesterol alto. Para lidar com essa situação, a empresa busca realizar uma análise exploratória dos dados existentes dos clientes. O objetivo é identificar as principais causas e fatores de risco, a fim de desenvolver estratégias preventivas e de tratamento adequadas.
